@@ -19,6 +19,9 @@ https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="VISION+", INDOSIAR BRI1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i-meatballs.bunkr.ru/indosiar-UuZW5qZJ.png?download=true" group-title="INDONESIA",INDOSIAR
+#EXTVLCOPT:http-user-agent=YzIzNWQ3MWRlZmM5NGQ3Nhn8/vokInUBbeVeueYDr8+kDBGl5DCKULa4efcjG2Spy9EedgcmLSn9F2maa0OFkHyeMQNy449VJ501FZXakFS08KRvpRhTBbylEARYPVcVjTOwl4XVCkAUi20BttIqWzlhZjBkYjJhYmJmZmUxNDk
+https://wakhaji.my.id/Zjk4MDhjMWFiZDE3MTIzMk31k8gPyph8UQnmBxUG8QrlJtZUkyr3OkfaxYCgP4/kF2XD1nr+PkYc8ScepPwU8WWneGP1uGklVG287C1csnE1ZmU2MWE3Y2YwNWRkYmYx
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="VISION+",INDOSIAR (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
