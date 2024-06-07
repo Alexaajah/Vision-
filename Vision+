@@ -2226,3 +2226,276 @@ https://flv.intechmedia.net/live/ch114.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="NASIONAL DIGITAL", RTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch115.m3u8
+
+
+
+
+
+
+################################################################################################################
+#EXTINF:-1 group-logo="https://images.bisnis.com/posts/2020/04/02/1221683/vidio1.jpg" group-title="VIDOVIL"
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png", SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji Proliga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=17252&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji VNL 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=17304&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji VNL 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=17305&type=hls
+
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=733&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=734&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=783&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=782&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png", Metro TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=777&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=874&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=1561&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6441&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png", BTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6165&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/1z_3ZItS3609Ex_kO9iC_PXyIXw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png", NET TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=875&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png", Jaktv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=5415&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/hidQqxmsKQvYJ4P5rkueZsbl__A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png", DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6482&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", Nusantara TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7432&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png", JTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=9713&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/tImFFkaMktXuC3K0WfZroQ_PDS0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/bfda90.png", JPM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=9714&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/7kJVJ57eVLHgT7sXJ-qPJi7HUC4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8815/f0c9f2.png", Metro Globe Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=8815&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWS90yBi4gKPhwkhOKgPsw-o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png", Bein 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6299&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6299&type=dash
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png", Bein 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6317&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6317&type=dash
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6685&type=drm
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6685&type=dash
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1 HLS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6685&type=hls
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6685&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6686&type=drm
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6686&type=dash 
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2 HLS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6686&type=drm
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6686&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6786&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=9182&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=9183&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9183&type=dash
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/jWfO9AAKL03aw_crIUZztvDSd5o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png", Premier League TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=9353&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9353&type=dash
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/iPxOdRXjFUTk-3ZAq4rIoM5509c=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png", NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6717&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6717&type=dash
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/wP-ZliPyzkQjDFSyVzvtMFGVU2w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7916/92d52c.jpg", Liverpool TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=7916&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7916&type=hls
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oVgHHmQei40opkprWzG7erORTpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png", TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6362&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6362&type=hls
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png", MUSICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7619&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qFHtu3jH8fCY4AJeQJqavmV-3mg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png", Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6399&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6399&type=hls
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/SBA2A3aIpB-X9KqPXj5zr-QQQTQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6504/d227d2.png", Fashion TV Midnight Secrets
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=6504&type=drm 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6504&type=hls
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/3iDA6RUopZay1BlEWBchTfy6kos=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cuass-060172da4dc0.herokuapp.com/pid/index.php?id=8121&type=drm 
