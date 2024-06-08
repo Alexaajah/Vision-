@@ -33,9 +33,13 @@ https://s.id/mojiHD_shareext-xs
 https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/65/Logo_Proliga.png" group-title="PROLIGA",Moji
+https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptv.urfan.web.id/logo/moji.png" group-title="PROLIGA",Moji
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
+
 
 #EXTINF:-1 group-title="PROLIGA" tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
