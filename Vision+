@@ -2892,3 +2892,18 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=9106&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7218&type=hls
 ################################
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg" group-title="SPORT TV PT", SPORT TV PT 1
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sporttvPT100.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg?ssl=1" group-title="SPORT TV PT", SPORT TV PT 2
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sporttvPT200.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg?ssl=1" group-title="SPORT TV PT", SPORT TV PT 3
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sporttvPT300.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg?ssl=1" group-title="SPORT TV PT", SPORT TV PT 4
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sporttvPT400.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg?ssl=1" group-title="SPORT TV PT", SPORT TV PT 5
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sporttvPT500.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg?ssl=1" group-title="SPORT TV PT", SPORT TV PT 6
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sporttvPT600.m3u8
