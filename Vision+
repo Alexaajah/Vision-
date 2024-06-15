@@ -216,7 +216,7 @@ http://shareext@cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=994885&
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
-#EXTINF:-1 group-title="EMTEK" tvg-id="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png", tvg-logo="",MOJI2
+#EXTINF:-1 group-title="EMTEK" tvg-id="https://logowik.com/content/uploads/images/moji9857.logowik.com.webp", tvg-logo="",MOJI2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
