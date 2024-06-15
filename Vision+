@@ -236,10 +236,6 @@ http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png" group-title="VISION+",RCTI HD
 https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-id="", tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI DIGITAL
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
-
 
 
 
