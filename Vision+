@@ -1,4 +1,4 @@
-jadieror 404 link bad
+eror 404 link bad
 
 
 visit link
@@ -172,7 +172,12 @@ PLAYLIST GRATIS CAMPURAN
 janagan di jual
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="IN126:SONY TEN 1SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="SONY ",IN126:SONY TEN 1
+http://mohdtv.com:8880/voby5094/82723927/55284
+#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN171Tamil|VIJAYHD.png" group-title="SONY ",IN127:SONY TEN 2
+http://mohdtv.com:8880/voby5094/82723927/55282
+#EXTINF:-1 tvg-id="" tvg-name="IN128:SONY TEN 3SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN172DiscoveryChannelTamil.png" group-title="SONY ",SONY TEN 3
+http://mohdtv.com:8880/voby5094/82723927/55281
 #EXTINF:-1 group-title="SONY " tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
 https://colorsscreen.com/sliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
 #EXTINF:-1 group-title="SONY " tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 HD
