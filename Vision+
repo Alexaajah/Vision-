@@ -171,7 +171,8 @@ visit link
 PLAYLIST GRATIS CAMPURAN
 janagan di jual
 
-
+#EXTINF:-1 tvg-id="" tvg-name="IN126:SPOTV STADIA" tvg-logo="" group-title="SONY ",IN126:SPOTV STADIA
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="IN126:SONY TEN 2HDD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="SONY ",IN126:SONY TEN 2HDD
 https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-2-hd/index.ts
