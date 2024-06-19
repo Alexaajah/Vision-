@@ -190,7 +190,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/211.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="SONY ",SPOTV STADIA
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="SONY ",SPOTV STADIA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTHTTP:1.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
