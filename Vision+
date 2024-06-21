@@ -152,6 +152,18 @@ visit link
 
 
 
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio
+#EXTVLCOPT:http-referrer=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1718986195~acl=/live/17252/*~id=161049633~hmac=d9f375711e41c8d13b58503bb965197a12ce0da6bdf4f5218b4fe80944a3d05a
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://santai90.000webhostapp.com/hexkey/aff_u16.php
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio 2
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1718985925~acl=%2f*~id=159984049~data=hdntl~hmac=5533fd2a1e3bdd6de00b138a6c47c28275ec4794f15f3c96d46e4b598047ad7c
+
 
 
 
