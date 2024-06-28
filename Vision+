@@ -2527,8 +2527,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/12-mtv-1432372537.jpg" tvg-id="MTVLive.id" tvg-name="ID: MTV Live" group-title="VISION+",MTV Live
 https://cempedak-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.2 (Linux;Android 10; 1px5za) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/76fc8210-c97.jpg" tvg-id="Sportstar4.id" tvg-name="ID: Sportstar 4" group-title="VISION+",Sportstar 4
