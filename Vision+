@@ -2535,7 +2535,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
+#KODIPROP:inputstream.adaptive.license_key=Clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 #EXTINF:-1 tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi.png" tvg-id="Cinemachi.id" tvg-name="ID: Cinemachi" group-title="VISION+",Cinemachi
