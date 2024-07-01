@@ -4822,7 +4822,7 @@ https://flv.intechmedia.net/live/ch108.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="NASIONAL DIGITAL", TVONE HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch109.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="@NASIONAL DIGITAL", METRO TV 
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="NASIONAL DIGITAL", METRO TV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch110.m3u8
 #EXTINF:-1 tvg-logo="https://rushia-thumbor.mediaformasi.com/unsafe/1000x0/content/images/size/w1000/wordpress/2020/07/1594699707-picsay.jpg" group-title="NASIONAL DIGITAL", MAGNA TV HD
@@ -4877,7 +4877,7 @@ http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="18",tvOne
 http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
 
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="20",VTV
+#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="20",VTV
 http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="21",Metro TV
@@ -4889,7 +4889,7 @@ http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
 #EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="NASIONAL DIGITAL",CNBC Indonesia
 http://103.237.32.213:9981/stream/channelid/2050623964?profile=pass
 
-#EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/220px-Logo_nusantaratv.png" group-title="@NASIONAL DIGITAL" tvg-chno="32",Nusantara TV 
+#EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/220px-Logo_nusantaratv.png" group-title="NASIONAL DIGITAL" tvg-chno="32",Nusantara TV 
 http://103.237.32.213:9981/stream/channelid/1256118101?profile=pass
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="NASIONAL DIGITAL" tvg-chno="3",TVRI World
