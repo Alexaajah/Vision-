@@ -235,55 +235,25 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/endosiar.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="LIVE EVENT",Timnas 2 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="LIVE EVENT",Timnas 3 (MOJI)
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="LIVE EVENT",Timnas 4 () Indosiar 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/voybqNT3BRKqPDRYS-CkE1Yia5A9Lgya1PfgiPrVWk8/m3u8
+
 #EXTINF:-1 xui-id="9" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="LIVE EVENT",Timnas 5 () SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/A1GQzo2nYXG41-RQg_QYwgEyrjvm68F4oRbNnthmqf8/m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1718986195~acl=/live/17252/*~id=161049633~hmac=d9f375711e41c8d13b58503bb965197a12ce0da6bdf4f5218b4fe80944a3d05a
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://santai90.000webhostapp.com/hexkey/aff_u16.php
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio 2
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1718985925~acl=%2f*~id=159984049~data=hdntl~hmac=5533fd2a1e3bdd6de00b138a6c47c28275ec4794f15f3c96d46e4b598047ad7c
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png",VIDIO1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721393543~acl=/drm/dash/*~id=69578335~hmac=285c4e3cd237b3f99e4bd61fcb9fa8180cca07733682b25c67d2304da5e6a520
-
-
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg",MOJI (PRO LIGA)
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1782
