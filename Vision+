@@ -444,11 +444,6 @@ https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w669828819_qRFZS.mpd
 
-#EXTINF:-1 tvg-id="Mentari TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VISION+", Mentari TV 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-Agent:IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/segment_ctaudio_cfm4s_ridp0aa0br44100_cs228587551560_w1188657401_qRFZS_mpd.m4s
-
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="VISION+", INDOSIAR BRI1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
