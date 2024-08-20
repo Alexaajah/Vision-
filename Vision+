@@ -260,19 +260,23 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1782
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visdrm.tauogikoe.workers.dev/?id=1002
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="MNC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+#EXTINF:-1 group-title="MNC" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png", SS3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;) 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5596f1b4fdb42ce925667d3b936dac1:95b298af74d5c0aa72b17f7592a12349 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd 
+ 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visdrm.tauogikoe.workers.dev/?id=1002
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="MNC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 4
+ 
+
+#EXTINF:-1 group-title="MNC" tvg-id="" https://www.mncvision.id/userfiles/image/channel/channel_99.png", SS4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;) 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b862efe4e80c460aa8bb2412a2e991b8:7a1e78803134b7f33f266b53c4d8e8ce 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
-
 
 
 
