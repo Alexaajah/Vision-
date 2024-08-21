@@ -158,8 +158,6 @@ http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 
 
 
-
-#EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg",
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="LOKAL(OS10 UP)",11 TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
