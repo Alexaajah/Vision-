@@ -5321,426 +5321,846 @@ https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-521/stream.mpd
 """"""""""""""""""""""""""""""""""""""""""VIZO""""""""""""""""""""""""""""""""""""
 
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkROIzL4HtL9obxJPF2Un_bEcj5WnzhovJx3HzNhCPfgYM.png" group-title="VIZO",LIGA 1 BRI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/304
+
 #EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRwi7RIM-I_pbW66ThM8aINqyIXs31DNW_X26Yc0Eo2pM.png" group-title="VIZO",PRO LIGA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/305
+
 #EXTINF:-1 tvg-id="" tvg-name="F ONE - 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRSxndb114QtQxtDU1ZVT_gr8oW29jLKQCIPCd2KXaa64.png" group-title="VIZO,F ONE - 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/306
+
 #EXTINF:-1 tvg-id="" tvg-name="F ONE - 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRSxndb114QtQxtDU1ZVT_gr8oW29jLKQCIPCd2KXaa64.png" group-title="VIZO",F ONE - 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/307
+
 #EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxyco6FGlY4rL_9k0FOpmYo_6w_oiAnUu9BEBwpL8UFo.png" group-title="VIZO",MOTOGP - 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/309
+
 #EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxyco6FGlY4rL_9k0FOpmYo_6w_oiAnUu9BEBwpL8UFo.png" group-title="VIZO",MOTOGP - 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/310
+
 #EXTINF:-1 tvg-id="" tvg-name="NBA - 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRe0xG97JMSAuQEpyqPRRM87VWGwq2dZ4Bby55HYHZhFs.png" group-title="VIZO",NBA - 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/312
+
 #EXTINF:-1 tvg-id="" tvg-name="NBA - 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRe0xG97JMSAuQEpyqPRRM87VWGwq2dZ4Bby55HYHZhFs.png" group-title="VIZO",NBA - 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/313
+
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS - 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxVzzdaPTSv-hDF1zWy37laqujpjQ7Am_vnSs9BaMhAw.png" group-title="VIZO",TENNIS - 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/314
+
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS - 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxVzzdaPTSv-hDF1zWy37laqujpjQ7Am_vnSs9BaMhAw.png" group-title="VIZO",TENNIS - 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/315
+
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS - 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxVzzdaPTSv-hDF1zWy37laqujpjQ7Am_vnSs9BaMhAw.png" group-title="VIZO",TENNIS - 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/316
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="VIZO",TRANS 7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/3
+
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="VIZO",TRANS TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/4
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqEN1LLatsXg-LbUquR8FlJQ.png" group-title="VIZO",INDOSIAR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/5
+
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqFDzvu1AGrgVDPl2nZeOioQ.png" group-title="VIZO",SCTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/6
+
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="VIZO",RCTI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/7
+
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="VIZO",MNC TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/8
+
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="VIZO",GTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/9
+
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="VIZO",iNEWS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/10
+
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="VIZO",ANTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/11
+
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="VIZO",TV ONE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/12
+
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqEYM5QLVAShBtZ2GQRxWHiw.png" group-title="VIZO",NET TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/13
+
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="VIZO",METRO TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/14
+
 #EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="VIZO",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/15
+
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqM3OnKm5_dx2QLZJQH_7kJw.png" group-title="VIZO",RTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/16
+
 #EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="VIZO",BERITA SATU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/17
+
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="VIZO",TVRI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/18
+
 #EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqxwQIyge37IEjq6fFYWRizYOAIO22E8Y8PeFBhiMOZ2w.png" group-title="VIZO",SINDO NEWS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/19
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqmIyRU5r1UatzoqFfSxYpnAn3qAi5b1DZFZtiA63TRCE.png" group-title="VIZO",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/20
+
 #EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqkbk5w8_L7Poo9K3C1JBPbmfxRdv7keisKWOKFWwqqrY.png" group-title="VIZO",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/21
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhDFes6U8h-jsBlVA-sRVeor93WcWiKsMG_yuE5W8t8sA.png" group-title="VIZO",CNN INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/22
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN FAST" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhrI5XbNJ2a2uflSeq0yRmuQ.png" group-title="VIZO",CNN FAST
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/23
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k1SDtrjodX1KoluZWm8BQHg.png" group-title="VIZO",HBO
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/39
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHBCisUrZPOuR7DGUWpd6jA.png" group-title="VIZO",HBO HITS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/40
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="VIZO",HBO SIGN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/41
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="VIZO",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/42
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJGoapq-oENaZDsh2_74URQ.png" group-title="VIZO",CINEMAX
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/43
+
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kyrqB-6fcA0Z9ZPlXTX-p9vPlRfko34hzJe89r7HH1lQ.png" group-title="VIZO",BIOSKOP INDONESIA HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/44
+
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k6fw8f0Za4movy4zu_WJ8DQ.png" group-title="VIZO",FLIK
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/45
+
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kRTcyahOKBfMFF5l0TBNGJw.png" group-title="VIZO",IMC
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/46
+
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k8OTGodYo4e2xPWpI-JAu-A.png" group-title="VIZO",WARNER TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/47
+
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4keKuJs4eiYs_fgOQHTUBPrQ.png" group-title="VIZO",CCM
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/48
+
 #EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kTx4o_i4zC4wNjbcz0PhxNwiPbApY6L4lwCbioqaM1lk.png" group-title="VIZO",CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/49
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4km_30cn2SgwJ3RN6k4cOilZrsfq1BWon6s3x4DIL_XDw.png" group-title="VIZO",ZEE BIOSKOP
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/50
+
 #EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kCTE_IlSYMccuHzH1zkfci3J3wqZJpimq1kIPudEnpMw.png" group-title="VIZO",ROCK ACTION
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/51
+
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k-6rdr1eitDthczRNhRz7Vg.png" group-title="VIZO",AXN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/52
+
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kaQMIOJiQeAGeaPg7aTlKAQ.png" group-title="VIZO",KIX
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/53
+
 #EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kneXD7ZoHvEuDPIlWpvSPjw.png" group-title="VIZO",THRILL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/54
+
 #EXTINF:-1 tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kBWx1KPs-2oKaK1M5KtgAvp8qVbmOMx9UqnmSS9gPvkQ.png" group-title="VIZO",TvN MOVIE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/55
+
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kvGoUH_n1YHOblitHp7BUTg.png" group-title="VIZO",GALAXY
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/56
+
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJ8shQktCfr0jXq_Hip1pZxupR0nYpfYRO38dZJnjY3s.png" group-title="VIZO",GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/57
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kPMsSHRerqVtHAoQucJWkins6c2Ba1nADsV_PChNFtpU.png" group-title="VIZO",CINEMA WORLD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/58
+
 #EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kRn5VJQvXffCesmIQwqmvEQ.png" group-title="VIZO",HITS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/59
+
 #EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kclcDK6mLz-2-2XRzRXg0ML6qTWUAiDPj5r1tObuOLGQ.png" group-title="VIZO",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/60
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kOGI_6YrvNxUVgWQBBc-e4N15_m6L_cNN18p40uOaLME.png" group-title="VIZO",CINEMACHI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/61
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kEQzWLfJ9KEVQR2flWXiQFjf9KOemn5KqskrC0oA0OlI.png" group-title="VIZO",CINEMACHI ACTION
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/62
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJOdVrl3pTdRa1GGssPDyGxSZ1OshXH3q1oVSy_UW0ew.png" group-title="VIZO",CINEMACHI MAX
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/63
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI XTRA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kRrGS8zggTwf19gabMYwO32O7RgMcZkDLcpl1WrsR768.png" group-title="VIZO",CINEMACHI XTRA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/64
+
 #EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4ktOPkdRX_VXV4Vek6tV--Bg.png" group-title="VIZO",MY CINEMA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/65
+
 #EXTINF:-1 tvg-id="" tvg-name="MY CINEMA ASIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJAQ4wItwOnXOLFg_qsVq3ZTm-IKyhaYqcHzdezzSl-c.png" group-title="VIZO",MY CINEMA ASIA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/66
+
 #EXTINF:-1 tvg-id="" tvg-name="MY FAMILY CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kIzAfVvSGqPlf_5bXS7XVwed_n2_U3JQQUWZtoW6wtkY.png" group-title="VIZO",MY FAMILY CHANNEL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/67
+
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP ACTION" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="VIZO",BIOSKOP ACTION
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/68
+
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP CHINA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="VIZO",BIOSKOP CHINA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/69
+
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP BOLLYWOOD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="VIZO",BIOSKOP BOLLYWOOD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/70
+
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP HORROR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="VIZO",BIOSKOP HORROR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/71
+
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="VIZO",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/72
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6ED2K_fY5xOcTIa7ppp7fcZs.png" group-title="VIZO",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/74
+
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5A-g-8nth0gjLpbCwoLK6qmN0_mPNwoZV06JNGLNxljo.png" group-title="VIZO",NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/75
+
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5BCHTmzkkFBn7p-A8upsyDAQYkQWQJl2kGXppTgPzHQk.png" group-title="VIZO",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/76
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5eBDl8YVIlCopeBbMWZeVr7LA7zzlKUSb9aSVGp6MOBs.png" group-title="VIZO",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/77
+
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5Mgte0dIVv6s_LxUOwKeKpIRX3PyqeS3W9Ntj_vq1Gvc.png" group-title="VIZO",BBC EARTH
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/78
+
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5od3BbELuzoqG6vrnGA7bqas9yJBBX4GmWXLXgYd8s7A.png" group-title="VIZO",LOVE NATURE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/79
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ASIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6EIs3hzTP9cLH1Mf_ujOHDuY.png" group-title="VIZO",DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/80
+
 #EXTINF:-1 tvg-id="" tvg-name="EXTREME +" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R51LKTTlM4NcpWp0qNX8Fl5J6X_Nheue8WDvpCWuHAtKc.png" group-title="VIZO",EXTREME +
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/81
+
 #EXTINF:-1 tvg-id="" tvg-name="4k TRAVEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R58N3Zi5dBYowj3QpQWe23lG_0Ujm4e-qgJbeSyLyIEK8.png" group-title="VIZO",4k TRAVEL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/82
+
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5P1NA-NW_gcCGmci_ZuA8ECCr-0s4L9lzVLZk7hq9zbs.png" group-title="VIZO",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/83
+
 #EXTINF:-1 tvg-id="" tvg-name="WILD PLANET" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5PxfjVrZ1q3LyCGrZFilzRE4tD77lv-xnddazmufykJA.png" group-title="VIZO",WILD PLANET
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/84
+
 #EXTINF:-1 tvg-id="" tvg-name="ADVENTURE EARTH" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5_hNj9oEraNuDu0DHbz2yicKlKS22C2q79hWQ5qF74RM.png" group-title="VIZO",ADVENTURE EARTH
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/85
+
 #EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5j1mQqJPDkO6Jc0Fg3D2Ob7m5DruP6QjSxQgVYjcMg6Y.png" group-title="VIZO",INWILD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/86
+
 #EXTINF:-1 tvg-id="" tvg-name="WILD EARTH" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5twHKLFpgjpMYtTJ74RHt8rkCNErBoE9kOy9ZXyz-1HA.png" group-title="VIZO",WILD EARTH
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/87
+
 #EXTINF:-1 tvg-id="" tvg-name="CLARITY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5gQulieZkiVK5f72ifGcMETMahGeNsDnwpP4JDG4-BOY.png" group-title="VIZO",CLARITY
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/88
+
 #EXTINF:-1 tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aomTPSbMToZD-b3ERf9VLG0771OEJDGh8ztgro-5PACo.png" group-title="VIZO",DUNIA LAIN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/89
+
 #EXTINF:-1 tvg-id="" tvg-name="CHINESE DRAMA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a3XeEgd7amfyiGNpDAdI5xKuEEVhuVz905hRj9XUr5UA.png" group-title="VIZO",CHINESE DRAMA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/90
+
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a1CRvBYhqz6csL4aaTKvd5a_R0F18pJT1Jtw8Z_qmel4.png" group-title="VIZO",K PLUS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/91
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aXMGqGualN-MkTfiKHK366B-0p5ybGVkoMoaMUbEny2c.png" group-title="VIZO",SONY ONE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/92
+
 #EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8alMEwkd-dvOOE0dH6eYYHelqbMShXpWJcPl0R5bDsFJw.png" group-title="VIZO",ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/94
+
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUKkBrokUWt9scOcJ9ownYPR-9LRKiH0IvNX2bcO26n8.png" group-title="VIZO",TVN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/95
+
 #EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a1je8w1aCLQnzS9yoz6UmytlaOKS66BahvO56Yq255Vw.png" group-title="VIZO",FMN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/96
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aLVlgiVkX3d27CgBzPMArdYaftwM-vYEHQqVrjG-q2GU.png" group-title="VIZO",TV 5 MONDE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/97
+
 #EXTINF:-1 tvg-id="" tvg-name="FEAR FACTOR" tvg-logo="https://play-gachor.my.id/logo/gachor_469283/entertainment/fearfactor.png" group-title="VIZO",FEAR FACTOR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/102
+
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a-DEcYZ-tHyqmRi_FiI5cClIr6S1K5fo8buytdnpN5RM.png" group-title="VIZO",VISION PRIME
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/103
+
 #EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a_CjAgkxO6FTNRlGqjIykyxdq-uKQxpQ9KG_PRdmvq9E.png" group-title="VIZO",OK TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/104
+
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aKF73TfSbXdFhynmw7gDcJebYcGwNXcr7r9fCjZ-FlUM.png" group-title="VIZO",NHK WORLD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/105
+
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8adWogq0-iNnwKs1BV8RcCG6Uh9QZiocjS6R5Nkfezub8.png" group-title="VIZO",NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/106
+
 #EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aIo4a7bzrwmSigG5v6_z9WYSlTt8qnv4o6OP8evMZduM.png" group-title="VIZO",KBS WORLD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/107
+
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aLX4TDgxoT3FXGfGdgBQ7D6sl35bxH5ZS6fzkJ0o47qM.png" group-title="VIZO",CGTN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/108
+
 #EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a96DUe85Tw6mM12Nr1K1byanPPi8ZaMB2EUFqARSkc2E.png" group-title="VIZO",ARIRANG
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/109
+
 #EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcrMv5ootj3Crjg7UGWmC1aw.png" group-title="VIZO",UPIN IPIN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/111
+
 #EXTINF:-1 tvg-id="" tvg-name="DORAEMAON" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwKjIMya0Azpmz_o10mjdNQ.png" group-title="VIZO",DORAEMAON
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/113
+
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc7Iz3R6JgMaskiRtJe9gtMA.png" group-title="VIZO",MENTARI TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/114
+
 #EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc5fC5oCgHWlcT1tuGnGaYrg.png" group-title="VIZO",HOREE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/116
+
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcbrmfIh1efIx20YCvDMYM2iQscS3LuRzZeZ2KK4ay3Pc.png" group-title="VIZO",DREAMWORS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/117
+
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcjo48p6lhkgV6EnAvedgyjB3WXSJHoJ88wcHc5XI3SNw.png" group-title="VIZO",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/118
+
 #EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDco0p3dw1pdIlQKZ1Ns7isFw.png" group-title="VIZO",MY KIDZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/119
+
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcUvvtz58HyUwxERN7eFcmDQ.png" group-title="VIZO",NICK JR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/120
+
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCceBV0rxKSqBhdJOP8PmALD2wcXAIdlk2hKOgYxAiTM.png" group-title="VIZO",NICKELODEON
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/121
+
 #EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcsmBq-H-oi-YNMgS0GCK6vg.png" group-title="VIZO",KIDS TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/122
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcBEYFDUc0MW4xBcNUn_IEDNI_J417S4gpL8bBZ-vyNDY.png" group-title="VIZO",CINEMACHI KIDS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/123
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcNmI4Q-R2d7yXPiGs26TrDw.png" group-title="VIZO",ANIPLUS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/124
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc62c7ZnAEbx50cxHHpQtRGg.png" group-title="VIZO",ANIMAX
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/125
+
 #EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcBwIzK3zPCWodjQsAnAYdzA.png" group-title="VIZO",CBEBIES
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/126
+
 #EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwl_Bljul7tUcMkdQaB2NPQ.png" group-title="VIZO",ZOO MOO
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/127
+
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f1GgfAvs-lvmmnh8U586tsg.png" group-title="VIZO",HGTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/128
+
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1feNrmsPrGfFcjjMuXKxIYiA.png" group-title="VIZO",TLC
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/129
+
 #EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fvsed_ygW5EYyZyS16YlZCQ.png" group-title="VIZO",AFN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/130
+
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1ffU5U3g6Xx4j_5loetX8jWZgSj9ldCZa9h4JWYSc2rnk.png" group-title="VIZO",LIFETIME
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/131
+
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1ffY3lhJ_dOF9iXr61LJZ1v-ub8yHuumlf-ayhcibjV5I.png" group-title="VIZO",FASHION TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/132
+
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f6bMKUWTDlWBL98SwEXdUcLS15OKQq6CzEzO7hiZdq1I.png" group-title="VIZO",FASHION TV MIDNIGHT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/133
+
 #EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxMhVhha4vhkDKPmCtIam30P6g3e7VDVJz2uhxvF-eMoY.png" group-title="VIZO",MUSLIM TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/205
+
 #EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxVewC58LL5EmtJc9q3praFKqA0QE0OfxHTFP8zMHSZUQ.png" group-title="VIZO",MAKKAH TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/206
+
 #EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxUQ2oz-PqdfG1jR2FzL7SxQ.png" group-title="VIZO",MUHAMMADIYAH TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/208
+
 #EXTINF:-1 tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMO7jzhKvP0wOHEBoE0tMFovVUKrCcCKjp14qPflZCjZQ.png" group-title="VIZO",JOWO CHANNEL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/212
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMA0A-sNFyixKXWXd4kzx9fg.png" group-title="VIZO",JTV
+
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMA0A-sNFyixKXWXd4kzx9fg.png" group-title="TV DAERAH",JTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/214
+
 #EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMnLsokFnMcOsPsr3vsA3pxgFnb0nZQ3dfPSb61k6B98E.png" group-title="VIZO",GARUDA TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/215
+
 #EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMUECWVt3Iw4fmK9O1dvHMaKO3twysPlRZZAI7_LW0SjU.png" group-title="VIZO",BALI TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/217
+
 #EXTINF:-1 tvg-id="" tvg-name="INSPIRA TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMlAxrjhoTrOXFU7bLiUjjHRqmX3zJ8deumSWiRllA1SQ.png" group-title="VIZO",INSPIRA TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/229
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zg2cfptYFZRe6sQfTK_xVA.png" group-title="VIZO",TV 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/237
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zzZHMDckmnU_kS5eMWkTzA.png" group-title="VIZO",TV 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/238
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7m7NE5Bz5B0z6q9O7MCHN-Q.png" group-title="VIZO",TV 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/239
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 6" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7s_0_dxIT84CxsrXL_N6ejQ.png" group-title="VIZO",TV 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/240
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX785Na4n279mqQFY2wSVuvdQ.png" group-title="VIZO",TV 8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/241
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7GNnYeQwd45b1UDtp33K9ew.png" group-title="VIZO",TV 9
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/242
+
 #EXTINF:-1 tvg-id="" tvg-name="OKEY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7l9iVj1r4Kuk8FveO7p1ygg.png" group-title="VIZO",OKEY
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/243
+
 #EXTINF:-1 tvg-id="" tvg-name="RTB Aneka" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7xMQdnFCEKuEnRKMXCxWE8513M2SU3A1c_qCBg3bMYEg.png" group-title="VIZO",RTB Aneka
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/244
+
 #EXTINF:-1 tvg-id="" tvg-name="RTB GO LIVE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX72KjQtlvt49XLtRFQF_fK8w.png" group-title="VIZO",RTB GO LIVE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/245
+
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX78W4Cy61MEQzOxJVvzGZZ0SgPGAwvop3qbEWiFX-BkNI.png" group-title="VIZO",RTB Sukmaindera
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/246
+
 #EXTINF:-1 tvg-id="" tvg-name="CH 5" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-touruyfl1M9Ous9Phwc-B02wlg.png" group-title="VIZO",CH 5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/247
+
 #EXTINF:-1 tvg-id="" tvg-name="CH 8" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tourBZlXFR-ll6bnOs3CWmSsmw.png" group-title="VIZO",CH 8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/248
+
 #EXTINF:-1 tvg-id="" tvg-name="CH U" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tourh0jbaWrLqL0MRjwTUqX5WQ.png" group-title="VIZO",CH U
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/249
+
 #EXTINF:-1 tvg-id="" tvg-name="SURIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tourFrKW_zo_lNbNbBuAnnX_WMkY3X8ZEY8YppY30eNKmvs.png" group-title="VIZO",SURIA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/250
+
 #EXTINF:-1 tvg-id="" tvg-name="VASANTHAM" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tournnEsMjgmTxfzP-na3CVJtdlXnO_JW1_uIbmpOo1u-pU.png" group-title="VIZO",VASANTHAM
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/251
+
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCWNNKD10ZuZgxY4WyJizz8xcuq94uI5dmKLa3-z6EHo.png" group-title="VIZO",SPOTV 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/323
+
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkRy6dlmVTJXuFJ7-0mwgQ_Ctm5ADFsBZeTJaLZdFAPJE.png" group-title="VIZO",SPOTV 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/324
+
 #EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkVnqM-sfBoCZgiXmEUqxab9RHnZJJOYe2My48K5IOq-I.png" group-title="VIZO",SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/325
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkeuoP8NzlMrLUW8dF1UuyCULdSQUf3mLiDU39nqu_9Rk.png" group-title="VIZO",BEIN 1 ID
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/326
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkeuoP8NzlMrLUW8dF1UuyCULdSQUf3mLiDU39nqu_9Rk.png" group-title="VIZO",BEIN 3 ID
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/327
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkqFVKQmJNNZYuS8sJoOM3hfmTPutEqnmhORfc8x--fP8.png" group-title="VIZO",SPORTSTARS 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/328
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkqFVKQmJNNZYuS8sJoOM3hfmTPutEqnmhORfc8x--fP8.png" group-title="VIZO",SPORTSTARS 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/329
+
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHuDG20m2ZfVEAHKb5qGwZoYODE53L4XxW8OCB-ZwLYQ.png" group-title="VIZO",UFC
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/285
+
 #EXTINF:-1 tvg-id="" tvg-name="UNIFI SPORTS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHuDG20m2ZfVEAHKb5qGwZBz7e2h8x7Oh9I82NZkXtqNe4kkIxy1Zw1aZbiCjYY2I.png" group-title="VIZO",UNIFI SPORTS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/286
+
 #EXTINF:-1 tvg-id="" tvg-name="RMC FIGHT" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHuDG20m2ZfVEAHKb5qGwZtfPUR07urjt8QGikyeG-fjW-7-tcw5vcGvwZ02cNHpo.png" group-title="VIZO",RMC FIGHT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/287
+
 #EXTINF:-1 tvg-id="" tvg-name="STRONGMAN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHuDG20m2ZfVEAHKb5qGwZ47B8u-8tdttvveDQ-uMjYoR71_WYkhQoDsS_Dza86RE.png" group-title="VIZO",STRONGMAN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/288
+
 #EXTINF:-1 tvg-id="" tvg-name="SURFER" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY3KfLmO5zwRm8G3hOE9R9P8u87gyvXwcTF5OaUNyX1ug.png" group-title="VIZO",SURFER
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/290
+
 #EXTINF:-1 tvg-id="" tvg-name="SURF NOW TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY3KfLmO5zwRm8G3hOE9R9P_EiIvq4eEsw5nUrqOYXAd6S_RcvSYAcaQYR8-RUHgIY.png" group-title="VIZO",SURF NOW TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/291
+
 #EXTINF:-1 tvg-id="" tvg-name="SURF CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY3KfLmO5zwRm8G3hOE9R9PNJH0nvbs2DVm1kvZldcRb-_jkG0fSPNf3N4C1Kz7keI.png" group-title="VIZO",SURF CHANNEL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/292
+
 #EXTINF:-1 tvg-id="" tvg-name="JUST FISHING" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbR6H8mpOb11--ksjFaulSingnahmb7nkLUwGzo7yXrpK5oTdV2VEFXXyxK4tYbMpE.png" group-title="VIZO",JUST FISHING
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/294
+
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbR6H8mpOb11--ksjFaulSilvobrNVkgF1cCXGm9-9MAt8wJbpdOQfMBJyMqfBMzUA.png" group-title="VIZO",ITALIAN FISHING
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/295
+
 #EXTINF:-1 tvg-id="" tvg-name="FISHING NETWORK" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbR6H8mpOb11--ksjFaulSiD7U9m1V-spb0AqBkEREf0BLKh2R4KLOzG9omTNBpAKw.png" group-title="VIZO",FISHING NETWORK
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/296
+
 #EXTINF:-1 tvg-id="" tvg-name="BILLIARD TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYWNo09adLZYvebWB3OaO9QXUBbacEIraXFRXhQjJt5CiCIJgBDMiW2TJlhx-nZRp0.png" group-title="VIZO",BILLIARD TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/297
+
 #EXTINF:-1 tvg-id="" tvg-name="WORLD BILLIARD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYWNo09adLZYvebWB3OaO9QLSidTIx1gPjM8AXVK1dEuXTYwTnkCnRglU7HgWKDvSg.png" group-title="VIZO",WORLD BILLIARD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/298
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfnk7YBmzJqa7hpxrEsKb-DrdlDjZe98NsqUPYym7orTA.png" group-title="VIZO",ASSP 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/332
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmf2ZWGDHaXzT7GS0HTHwA7RqwR-uAEJZRc_F_98mvr5yU.png" group-title="VIZO",ASSP 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/333
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmf0En7rrgObcC0PCXS6zm4T55qDcvppSNG8emFjDho1bk.png" group-title="VIZO",ASSP 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/334
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfmGHV0KtWEDk9dhYqaPGORR3LLJqMHUjzL-7z2YfGseE.png" group-title="VIZO",ASSP 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/335
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfM-MTyqkgH7TjAj8OOHProtbpFcw5p-EIai7rzdZvBmE.png" group-title="VIZO",ASTRO ARENA 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/336
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfM-MTyqkgH7TjAj8OOHProtbpFcw5p-EIai7rzdZvBmE.png" group-title="VIZO",ASTRO ARENA 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/337
+
 #EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfBTTM5VCn_d6DtiTa1I8WU3zawvmJRwbuZBvtSomKnEQ.png" group-title="VIZO",SPO TV 1 MY
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/341
+
 #EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmffbANfO_aVYmo2j_Ax9mkdbRBnzaXrjVY90IUkgaI2ZY.png" group-title="VIZO",SPO TV 2 MY
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/342
+
 #EXTINF:-1 tvg-id="" tvg-name="SUKAN RTM" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfl8B_wKge2iT4DISyJNoQeGU3qQW5UVcWdDgYCsmP--c.png" group-title="VIZO",SUKAN RTM
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/345
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO,Sky Sports Premier
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/346
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO",Sky Sports Football
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/347
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO,Sky Sports F1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/348
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO",Sky Sports Main Events
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/349
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Tennis" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO",Sky Sports Tennis
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/317
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/350
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO",Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/351
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="VIZO",Sky Sports Golf
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/352
+
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="VIZO",SuperSport Premier League
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/355
+
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="VIZO",SuperSport Football
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/356
+
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="VIZO",SuperSport Tennis
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/357
+
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="VIZO",SuperSport Action
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/358
+
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport MotorSport" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="VIZO",SuperSport MotorSport
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/359
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="VIZO",DAZN ELEVEN 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/365
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="VIZO",DAZN ELEVEN 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/366
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="VIZO",DAZN ELEVEN 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/367
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="VIZO",DAZN ELEVEN 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/368
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="VIZO",TNT 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/369
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="VIZO",TNT 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/370
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="VIZO",TNT 3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/371
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="VIZO",TNT 4 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/372
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="VIZO",SPORTTV 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/373
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="VIZO",SPORTTV 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/374
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="VIZO",SPORTTV 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/375
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 4" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="VIZO",SPORTTV 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/376
+
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="VIZO",ZIGGO 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/360
+
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="VIZO",ZIGGO 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/361
+
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="VIZO",ZIGGO 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/362
+
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO 4" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="VIZO",ZIGGO 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/363
+
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO 6" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="VIZO",ZIGGO 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/364
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 AR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkoKgkS73ganAQfsQRJ-Q54A.png" group-title="VIZO",beIN SPORTS 1 AR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/377
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 AR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkoKgkS73ganAQfsQRJ-Q54A.png" group-title="VIZO",beIN SPORTS 2 AR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/378
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 AR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkoKgkS73ganAQfsQRJ-Q54A.png" group-title="VIZO",beIN SPORTS 3 AR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/379
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 AR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkoKgkS73ganAQfsQRJ-Q54A.png" group-title="VIZO",beIN SPORTS 4 AR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/380
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 AR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkoKgkS73ganAQfsQRJ-Q54A.png" group-title="VIZO",beIN SPORTS 5 AR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/381
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 AR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkoKgkS73ganAQfsQRJ-Q54A.png" group-title="VIZO",beIN SPORTS 6 AR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/382
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 AR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkoKgkS73ganAQfsQRJ-Q54A.png" group-title="VIZO",beIN SPORTS 7 AR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/383
+
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkFKJAf19J5I4Q9bDitJdrFF5WT2lLI2Gq9agZrRUC-Ow.png" group-title="VIZO",EUROSPORTS 1 UK
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/353
+
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkFKJAf19J5I4Q9bDitJdrFF5WT2lLI2Gq9agZrRUC-Ow.png" group-title="VIZO",EUROSPORTS 2 UK
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/354
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkRbtbbJtRx8QspmCY6tdjxdXEXKGgRyX2PxO05Wqe32Y.png" group-title="VIZO",SONY TEN 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/384
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkRbtbbJtRx8QspmCY6tdjxdXEXKGgRyX2PxO05Wqe32Y.png" group-title="VIZO",SONY TEN 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/385
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkRbtbbJtRx8QspmCY6tdjxdXEXKGgRyX2PxO05Wqe32Y.png" group-title="VIZO",SONY TEN 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/386
 
