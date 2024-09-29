@@ -774,28 +774,77 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
+============================
+================================= EMTEK GROUP ================================================================================================================
+========================================================================================================================================================
+
+
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="EMTEK GROUP", INDOSIAR
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://ktv.im:8080/556224433k/9004455221/101131
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="EMTEK GROUP", INDOSIAR
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="EMTEK GROUP", SCTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.ts
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="EMTEK GROUP", SCTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsC4EPv6x-oeC6-JKZUxjDVehhTgNoY3VJtFXr_gAuTwwl53rOnnLybU&s=10" group-title="EMTEK GROUP", MENTARI TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:http-reconnect=true
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298546.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsC4EPv6x-oeC6-JKZUxjDVehhTgNoY3VJtFXr_gAuTwwl53rOnnLybU&s=10" group-title="EMTEK GROUP", MENTARI TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:http-reconnect=true
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298546.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK GROUP", MOJI 1
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK GROUP", MOJI 2
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://ktv.im:8080/556224433k/9004455221/101156
+
+
+======================================================================================================================
 
 
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
-http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1
-http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
-
-#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
-http://108.181.132.217:8070/live/AmirBilali/76448035/162138.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
-http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
-http://194.120.144.74:8070/live/AmirBilali/76448035/298550.ts
 
 
 
