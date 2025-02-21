@@ -589,7 +589,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h108/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-cdn-fly.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-EXTINF:-1 tvg-id="Channel Jowo" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685910daca60191a8636d706700/20240831122537.jpg" group-title="VISION+", Channel Jowo
+EXTINF:-1 tvg-id="Channel Jowo" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685910daca60191a8636d706700/20240831122537.jpg" group-title="VISION+", jowo TV1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 ##https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
