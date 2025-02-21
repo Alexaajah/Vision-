@@ -608,7 +608,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
 
 
-#EXTINF:-1 group-title="TV National" tvg-id="vtv.id" tvg-logo="https://i.ibb.co.com/bR4XfVJ/20241225-180426.jpg",VTV
+#EXTINF:-1 group-title="VISION+" tvg-id="vtv.id" tvg-logo="https://i.ibb.co.com/bR4XfVJ/20241225-180426.jpg",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://elitestreamid.xyz/scripts/oxygen.php?id=vtv
 
