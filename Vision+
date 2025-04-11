@@ -103,9 +103,6 @@ https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/in
 
 
 
-#EXTINF:-1  group-title="VISION+ (BACKUP) " tvg-id="RCTI.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 RCTI+
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
-
 
 
 
@@ -635,7 +632,15 @@ https://elitestreamid.xyz/scripts/oxygen.php?id=vtv
 
 
 
+#EXTINF:-1 tvg-id="Mentari TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VISION1", Mentari TV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w669828819_qRFZS.mpd
 
+#EXTINF:-1 group-title="VISION1" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV (D)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
 
