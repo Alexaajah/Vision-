@@ -620,7 +620,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w669828819_qRF
 
 #EXTINF:-1 tvg-id="Mentari TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VISION+", Mentari TV 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:Oxygen TV/6.0.240924 (Linux;Android 9) ExoPlayerLib/2.19.1
 https://cdn1-reg2.mm.oxygen.id/hls/mentaritv/jxtjvb6bjg.ts
 
 
@@ -630,7 +630,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VISION+", Mentari TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:Oxygen TV/6.0.240924 (Linux;Android 9) ExoPlayerLib/2.19.1
 https://cdn1-reg2.mm.oxygen.id/hls/mentaritv/index.m3u8
 
 
