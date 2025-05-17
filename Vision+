@@ -89,7 +89,9 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1
 #EXTINF:-1 group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",SPOTV(A)
 https://av-ch-cdn.mncnow.id/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/629/629-LOGO-m.png" group-title="VISION+",My Kids 1
+http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+#http://202.147.193.244/live/eds/My-Kids/sa_dash/My-Kids.mpd
 
 
 #EXTINF:-1 group-title="VISION+" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GS-iptv/GS-iptv/main/logo.jpg",TVRI Sport
