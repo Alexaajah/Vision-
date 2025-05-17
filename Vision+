@@ -621,7 +621,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w669828819_qRF
 #EXTINF:-1 tvg-id="Mentari TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VISION+", Mentari TV 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:Oxygen TV/6.0.240924 (Linux;Android 9) ExoPlayerLib/2.19.1
-https://cdn1-reg2.mm.oxygen.id/hls/mentaritv/jxtjvb6bjg.ts
+https://cdn1-reg2.mm.oxygen.id/hls/mentaritv/index.m3u8
 
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png" group-title="VISION+",SCTV (D*)
