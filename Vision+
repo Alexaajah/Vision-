@@ -59,6 +59,17 @@ eror 404 link bad
 
 
 
+#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="OLAHRAGA" , DAZN 1 🇩🇪 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co.com/Z2nfLbq/2k24dazn2.png" group-title="OLAHRAGA" , DAZN 2 🇩🇪 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe4e1cd2eea9e7ac5b365c261e41c57c:38dd1a0751aa0f04f2035636cf0608eb
+https://a151aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/wdxmrxkd70/out/v1/3b94f689049a43d082648d093a77f5f8/cenc.mpd
 
 
 
