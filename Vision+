@@ -3,8 +3,6 @@ eror 404 link bad
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MU TV" tvg-logo="https://spmid.pw:443/images/mg9e4VnU5MiobcDarwnBsXKlKve8XQovq2K3qAyz0o0.png" group-title="LIVE",MU TV
-http://103.160.63.220:25461/SPMIDfree/VmdfSjLlJj/1096
 
 
 
@@ -68,10 +66,17 @@ http://103.160.63.220:25461/SPMIDfree/VmdfSjLlJj/1096
 
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="TIMNAS",Sportstars 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=112
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=112
 
-
-
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
