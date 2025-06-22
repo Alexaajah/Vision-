@@ -15,7 +15,51 @@ eror 404 link bad
 
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="- LOKAL ID -",TRANS 7
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/54
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="- LOKAL ID -",TRANS TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/55
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="- LOKAL ID -",INDOSIAR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/56
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqFDzvu1AGrgVDPl2nZeOioQ.png" group-title="- LOKAL ID -",SCTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/57
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="- LOKAL ID -",RCTI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/58
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="- LOKAL ID -",MNC TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/59
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="- LOKAL ID -",GTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/60
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="- LOKAL ID -",iNEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/61
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="- LOKAL ID -",TV ONE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/62
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="- LOKAL ID -",METRO TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/63
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="- LOKAL ID -",KOMPAS TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/64
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="- LOKAL ID -",ANTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/65
+#EXTINF:-1 tvg-id="" tvg-name="MDTV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqJtbbNR2CRsFDWQiMHunmEg.png" group-title="- LOKAL ID -",MDTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/66
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqM3OnKm5_dx2QLZJQH_7kJw.png" group-title="- LOKAL ID -",RTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/67
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKZfEHLvts9ohyPR2I798Fw.png" group-title="- LOKAL ID -",BTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/68
+#EXTINF:-1 tvg-id="" tvg-name="NTV TV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqNPGDiTpAbNnK0v4FeWQz-DO4-q1qocEb92FcRn6FFso.png" group-title="- LOKAL ID -",NTV TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/69
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqmIyRU5r1UatzoqFfSxYpnAn3qAi5b1DZFZtiA63TRCE.png" group-title="- LOKAL ID -",CNN INDONESIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/70
+#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqxwQIyge37IEjq6fFYWRizYOAIO22E8Y8PeFBhiMOZ2w.png" group-title="- LOKAL ID -",SINDO NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/71
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="- LOKAL ID -",BERITA SATU
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/72
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="- LOKAL ID -",TVRI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/73
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqkbk5w8_L7Poo9K3C1JBPbmfxRdv7keisKWOKFWwqqrY.png" group-title="- LOKAL ID -",CNBC INDONESIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/75
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDq0O1iFBnLp7qOj1z9sBlO3w.png" group-title="- LOKAL ID -",DAAI TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/76
 
 
 
