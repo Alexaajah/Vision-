@@ -107,6 +107,181 @@ visit link
 
 
 
+#EXTINF:-1 group-title="VISION+" tvg-id="Nusantara TV.id" tvg-logo="https://i.imgur.com/qEtOHkD.jpeg",Nusantara TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-id="Nusantara TV.id" tvg-logo="https://i.imgur.com/qEtOHkD.jpeg",Nusantara TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-id="GARUDATV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png",Garuda TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
+#https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist_w1596083799.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="VISION+",Iqraa TV
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+
+
+#EXTINF:-114 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",Citra Muslim (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
+https://av-ch-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd
+
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/7819c09ece974a7582eed4770bf60e65/index.mpd
+
+###################### RELIGI ##########################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
+#EXTINF:0 tvg-id="ID" tvg-name="Khazanah" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx6dAbT9ljxEyMwmUF3JPJ4rRzty-8NMaKA&s"  ch-number="798" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f557be28131b9/80b42c2601c64bd69db44ebfde005981.png" group-title="Religi",Khazanah
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://makkahtv.tv/assets/images/0.png-714x367.png",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w1800146176.m3u8
+
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="Religi", MAKKAH LIVE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="Religi", MADINAH LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-id="" tvg-logo="https://i.ibb.co.com/pzkTRKY/ajwatv.jpg", Ajwa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+####https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php?id=7464&=.m3u8?app_type=web&userid=jjj&chname=Ajwa_TV
+https://sweet-night-1d1d.worst.workers.dev/?id=7464&&type=hls
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
+https://e.siar.us/live/deikidstv.m3u8
+
+#EXTINF:-1 tvg-id="AswajaTV.id" status="online" group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png",TV Alhijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://mqtv.co.id/wp-content/uploads/2021/04/Logo_MQTV_Original-1024x258.png", MQTV
+https://5bf7b725107e5.streamlock.net:443/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Religi" tvg-logo="https://yt3.ggpht.com/r0lQLIarubPwEK5GgkajuARgBc90ePLajzDzMhyXpd10gSrAkymmHMoYFyHsSfyb5lioR2otIMI=s900-c-k-c0x00ffffff-no-rj",Alwafa Tarim TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV 
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_small1.png?v=2.0.0.13?v=2.0.0.9" group-title="Religi",TVMU
+https://e.siar.us/live/tvmu.m3u8
+
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Religi",Al Quran Al Kareem TV (Mecca) 
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-id="AlQuran Kareem.id" tvg-logo="https://cdn.urfan.id/logo/mekahtv.png",Mekah TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-name="" tvg-country="ID" tvg-logo="",Alquran Alkareem TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
+https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+
+
+
+#EXTINF:-1  tvg-id="MTATV.id" group-title="Religi" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTATV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+
+#EXTINF:-1  tvg-id="MTATV.id" group-title="Religi" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTATV (BU) 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
+
+
+#EXTINF:-1 tvg-id="AswajaTV.id" status="online" group-title="Religi" tvg-logo="https://play-lh.googleusercontent.com/9uWeddJOMkNHxbC4YIVpFxBNdzzB0kIyH5g3SuA-HvFN02_gEiyvsuckKTSynW8l2g",Aswaja TV 
+https://qreatifku.my.id/test/dailymotion.php?id=x748iuo
+
+
+
+https://bravo.kugo.id/salingsapa/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkwhW567/SALAM-TV.png" group-title="Religi",Salam TV
+#http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png" group-title="Religi",MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://i.postimg.cc/HLg518vx/BRITISH-MUSLIM.png" group-title="Religi",British Muslim
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+
+
+#EXTINF:1 tvg-logo="https://i.postimg.cc/KcHMvHpC/ISLAM-CHANNEL.png" group-title="Religi",Islam Channel
+#https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist_w1596083799.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="Religi",Iqraa TV
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+
+
+#EXTINF:-114 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",Citra Muslim (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
+https://av-ch-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/7819c09ece974a7582eed4770bf60e65/index.mpd
+
+
+
 
 
 
