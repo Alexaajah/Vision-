@@ -5,8 +5,8 @@ eror 404 link bad
 
 
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="TRANSVISION", TRANS 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=Keep-Alive
+#KODIPROP:inputstream.adaptive.manifest_type=gzip
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=H4sIAAAAAAAAAKtWKs5Mz1OyUlCytDC0NDMzNDJV0lFQKsnMTQUKGpqbG5obWBgbWNQCAGyo1TopAAAA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; f4a93191cb54dfa1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.86 Mobile Safari/537.36
