@@ -10,7 +10,7 @@ eror 404 link bad
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/segment_ctaudio_cfm4s_ridp0aa0br44100_cs4184042712_w1039113659_qRFZS_mpd.m4s
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_w1039113659_qRFZS.mpd
 
 
 
