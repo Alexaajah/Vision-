@@ -5,12 +5,12 @@ eror 404 link bad
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNPD-iwMrRfCy-cn4QyiqkHjSAqc7NHHeEQ&usqp=CAU" group-title="INDIHOME", trans 7V
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=LiveTVGOPlayer
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dassdvr
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=H4sIAAAAAAAAAKtWKs5Mz1OyUlCytDC0NDMzNDJV0lFQKsnMTQUKGpqbG1qamJhYGtUCAJqXYlwpAAAA
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_w1039113659_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest_wuseetv.mpd
 
 
 
