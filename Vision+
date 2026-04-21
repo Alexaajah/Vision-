@@ -2880,3 +2880,236 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e375
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+
+
+
+trans cub
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="800.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" tvg-name="Trans TV" group-title="CUB", Trans TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/VHJhbnNUVg/manifest.mpd
+#EXTINF:-1 tvg-id="801.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" tvg-name="Trans 7" group-title="CUB", Trans 7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/VFJBTlM3LW15/manifest.mpd
+#EXTINF:-1 tvg-id="803.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" tvg-name="CNN Indonesia" group-title="CUB", CNN Indonesia
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q05OaS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="805.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" tvg-name="CNBC Indonesia" group-title="CUB", CNBC Indonesia
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
+#EXTINF:-1 tvg-id="802.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfc9d256-0421-447e-9aae-431db3de77c3.png" tvg-name="MetroTV" group-title="CUB", MetroTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/TWV0cm9UVg/manifest.mpd
+#EXTINF:-1 tvg-id="804.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" tvg-name="TVOne" group-title="CUB", TVOne
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/VFZPTkU/manifest.mpd
+#EXTINF:-1 tvg-id="806.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" tvg-name="SCTV" group-title="CUB", SCTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/U0NUVi1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="807.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" tvg-name="Indosiar" group-title="CUB", Indosiar
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/SW5kb3NpYXI/manifest.mpd
+#EXTINF:-1 tvg-id="808.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfe78d70-6bbe-47a4-8175-0e5f43fc9ef7.png" tvg-name="RCTI" group-title="CUB", RCTI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/UkNUSS1DaGFubmVs/manifest.mpd
+#EXTINF:-1 tvg-id="809.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" tvg-name="GTV" group-title="CUB", GTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/R1RWLUNIQU5ORUw/manifest.mpd
+#EXTINF:-1 tvg-id="812.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/912d53a1-8222-40e0-8e97-affb43129850.jpg" tvg-name="JakTV" group-title="CUB", JakTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="813.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/240aa9e1-110f-450e-af68-9f202002b4e9.png" tvg-name="BTV" group-title="CUB", BTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/QlRWIENoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="814.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f0771c7b-d473-4fa4-ad0f-cdffd4bc0ac5.jpg" tvg-name="Kompas TV" group-title="CUB", Kompas TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/S29tcGFzIFRW/manifest.mpd
+#EXTINF:-1 tvg-id="815.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d3167d38-bcc3-44e9-b658-057beda535c4.png" tvg-name="MDTV" group-title="CUB", MDTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/TURUVg/manifest.mpd
+#EXTINF:-1 tvg-id="816.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f4bd6cd9-d8a5-4f42-8dce-7f332ec55940.jpg" tvg-name="Rtv" group-title="CUB", Rtv
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/cnR2IENobmw/manifest.mpd
+#EXTINF:-1 tvg-id="817.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" tvg-name="MNC TV" group-title="CUB", MNC TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/TU5DVFY/manifest.mpd
+#EXTINF:-1 tvg-id="818.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e55c83f-b399-4884-8b57-273acb663344.png" tvg-name="TVRI" group-title="CUB", TVRI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/VFZSSQ/manifest.mpd
+#EXTINF:-1 tvg-id="810.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" tvg-name="ANTV" group-title="CUB", ANTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/QU5UVg/manifest.mpd
+#EXTINF:-1 tvg-id="820.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87b521be-283d-465d-b3af-8280eda34f0a.png" tvg-name="jtv" group-title="CUB", jtv
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/anR2LUNoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="823.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/86edd2be-b5c2-4c9b-8ac9-1a6ee5c3b94e.png" tvg-name="Berita Satu" group-title="CUB", Berita Satu
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/QmVyaXRhIFNhdHU/manifest.mpd
+#EXTINF:-1 tvg-id="824.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dc7d7072-39d4-4978-bc34-4e7654fe4469.jpg" tvg-name="Garuda TV" group-title="CUB", Garuda TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/R2FydWRhIFRW/manifest.mpd
+#EXTINF:-1 tvg-id="105.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/7cce0289-c742-4d11-a9b6-9be1db16ded6.jpg" tvg-name="HBO" group-title="Film", HBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/SEJPLW15/manifest.mpd
+#EXTINF:-1 tvg-id="106.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/83ead59b-d19d-4328-b0ca-48f7907eb18b.png" tvg-name="HBO Signature" group-title="Film", HBO Signature
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="107.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/bc3d5e4d-58d9-44ba-829d-b0cd5759f52d.png" tvg-name="HBO Hits" group-title="Film", HBO Hits
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/SEJPIEhpdHM/manifest.mpd
+#EXTINF:-1 tvg-id="108.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/67cfff0b-26bb-4f79-b8d9-aae036ef0a72.png" tvg-name="HBO Family" group-title="Film", HBO Family
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="109.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6745a475-f1fd-4157-b5cf-c06f1c3a7e29.jpg" tvg-name="Cinemax" group-title="Film", Cinemax
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2luZW1heA/manifest.mpd
+#EXTINF:-1 tvg-id="110.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/1371ddca-87d4-4f9e-8cf7-c6e8ca9a444b.png" tvg-name="TVN Movies" group-title="Film", TVN Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/VFZOIE1vdmllcw/manifest.mpd
+#EXTINF:-1 tvg-id="123.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/aa0b92a1-60c1-4a7f-83ee-432c7323c97a.jpg" tvg-name="Cinema World" group-title="Film", Cinema World
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2luZW1hIFdvcmxk/manifest.mpd
+#EXTINF:-1 tvg-id="141.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" tvg-name="Celestial Movies" group-title="Film", Celestial Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd
+#EXTINF:-1 tvg-id="144.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" tvg-name="Bioskop Indonesia" group-title="Film", Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
+#EXTINF:-1 tvg-id="151.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/17ffd135-8de7-4ee0-ad5f-d91bcf4ccffc.png" tvg-name="Zee Bioskop" group-title="Film", Zee Bioskop
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/WmVlIEJpb3Nrb3A/manifest.mpd
+#EXTINF:-1 tvg-id="161.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bec4b1b-262f-44e0-821f-a3897ce93251.jpg" tvg-name="Thrill" group-title="Film", Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/VGhyaWxs/manifest.mpd
+#EXTINF:-1 tvg-id="162.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8c6fb1a8-44f6-4d20-9093-fb4bb93bc5cd.jpg" tvg-name="Movies News" group-title="Film", Movies News
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/TW92aWVzIE5ld3M/manifest.mpd
+#EXTINF:-1 tvg-id="211.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/1e99560e-9c76-4f32-a49b-4b6c4fbad0ac.jpg" tvg-name="Cartoon Network" group-title="Anak", Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2FydG9vbiBOZXR3b3Jr/manifest.mpd
+#EXTINF:-1 tvg-id="215.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2947e0d9-2d5f-4c82-aad0-695ac787adc4.jpg" tvg-name="Cartoonito" group-title="Anak", Cartoonito
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2FydG9vbml0bw/manifest.mpd
+#EXTINF:-1 tvg-id="220.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg" tvg-name="Cartoon TV Premium" group-title="Anak", Cartoon TV Premium
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
+#EXTINF:-1 tvg-id="221.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg" tvg-name="Cartoon TV" group-title="Anak", Cartoon TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2FydG9vbiBUVg/manifest.mpd
+#EXTINF:-1 tvg-id="222.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/76e39ba2-62b9-4f96-90ae-3de803edb400.png" tvg-name="Dunia Anak" group-title="Anak", Dunia Anak
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/RHVuaWEgQW5haw/manifest.mpd
+#EXTINF:-1 tvg-id="223.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg" tvg-name="Cartoon TV Classic" group-title="Anak", Cartoon TV Classic
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
+#EXTINF:-1 tvg-id="260.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/c55e63da-1cf1-49b4-928d-9a25328eb6d0.jpg" tvg-name="Knowledge+" group-title="Edukasi", Knowledge+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/S25vd2xlZGdlKw/manifest.mpd
+#EXTINF:-1 tvg-id="265.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/43b255c4-1682-48af-abdf-5c7ff1399c8f.jpg" tvg-name="CGTN Documentary" group-title="Edukasi", CGTN Documentary
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest.mpd
+#EXTINF:-1 tvg-id="321.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/274d8780-8a11-4f25-8468-7c8da630484f.png" tvg-name="tVN" group-title="Hiburan Asia", tVN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/dHZOQ2hhbm5lbA/manifest.mpd
+#EXTINF:-1 tvg-id="323.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/e04338ba-7f9f-4ad7-8c7f-e8c06f081439.png" tvg-name="KBS World" group-title="Hiburan Asia", KBS World
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktidc01.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/S0JTIFdvcmxk/manifest.mpd
+#EXTINF:-1 tvg-id="324.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3be596da-2aad-4036-8d9e-3bc39e092f50.png" tvg-name="One" group-title="Hiburan Asia", One
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/T25lIFR2/manifest.mpd
+#EXTINF:-1 tvg-id="500.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0768e86c-684d-414a-875f-78f3bda7aede.png" tvg-name="NHK World Premium" group-title="Hiburan Asia", NHK World Premium
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbpid22.transvision.co.id/riutx01-0681484a1863a68bfefa9dfcfc688708fa0f50df6e07d7ca8bdeb75ae899a65c/dash/TkhLIFdvcmxkIFByZW1pdW0/manifest.mpd
+
