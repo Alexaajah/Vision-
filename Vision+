@@ -45,6 +45,18 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 
 
+Mentari tv (vision+) dari Gvision
+
+#EXTINF:-1 tvg-name="Mentari TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1J4WZGXMtCZYYDMb0_CjxIOIrdgNFUAIsfXVKIkateUaQlird7AvAqLrKj-pgK0ExcALFlLoDQtN4DVnvg5rd9jZVHSduXdAfMkm0EbFSLlEqQ1qe8HyBfFJWHM9aJyijLsxAjp8K2UcDFUy7nppDA6A246qJHFpMmP10jw3qHyXyqhgSVlag_NsD5QzY" group-title="VISION+" event-duration="4",Mentari TV (V+) 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
+
+
 #EXTM3U
 #EXTINF:-1
 
