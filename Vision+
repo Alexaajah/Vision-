@@ -479,7 +479,7 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=115
 
 
 
-#EXTINF:-1 tvg-id="VISION+tars - [Channel 102].id" tvg-name="VISION+tars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/VISION+tars.png" group-title="VISION+", VISION+TARS
+#EXTINF:-1 tvg-id="sportstars - [Channel 102].id" tvg-name="sportstars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/VISION+tars.png" group-title="VISION+", VISION+TARS
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -487,21 +487,21 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=115
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=112
 
 
-#EXTINF:-1 tvg-id="VISION+tars 2 HD - [Channel 422].id" tvg-name="VISION+tars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="VISION+", VISION+TARS 2
+#EXTINF:-1 tvg-id="sportstars 2 HD - [Channel 422].id" tvg-name="sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="VISION+", VISION+TARS 2
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=113
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=113
 
-#EXTINF:-1 tvg-id="MNCVISION+3.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/VISION+tars_3.png" group-title="VISION+", VISION+TARS 3
+#EXTINF:-1 tvg-id="MNCVISION+3.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/sportstars_3.png" group-title="VISION+", SPORTSTARS 3
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=114
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/VISION+tars_4.png" group-title="VISION+", VISION+TARS 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/sportstars_4.png" group-title="VISION+", SPORTSTARS 4
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
