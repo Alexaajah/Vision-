@@ -56,7 +56,7 @@ https:://ogietv.biz.id:443/Buat/App/1327.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
+#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
 #EXTVLCOPT:http-referrer=https://20.detik.com/" group-title="VISION+", TRANS7 DTK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -68,6 +68,10 @@ https:://ogietv.biz.id:443/Buat/App/1327.m3u8
 https://video.detik.com/trans7/smil:trans7/chunklist_w734650975_b744100_sleng.m3u8
 
 
+#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 HD 
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://video.detik.com/trans7/smil:trans7/chunklist_w734650975_b744100_sleng.m3u8
 
 
 
