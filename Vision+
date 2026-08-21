@@ -56,22 +56,20 @@ https:://ogietv.biz.id:443/Buat/App/1327.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
-#EXTVLCOPT:http-referrer=https://20.detik.com/" group-title="VISION+", TRANS7 DTK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-cookie=cshx=3bcdb206
-#EXTVLCOPT:http-referrer=https://20.detik.com/live/trans-7
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTHTTP:{"Origin":"https://20.detik.com"}
-https://video.detik.com/trans7/smil:trans7/chunklist_w734650975_b744100_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 HD 
-#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest/scale-to-width-down/250?cb=20180705160440" group-title="VISION+" , HOREE!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+http://line.4k-beast.top/live/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505844.ts
+
+
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+", TRANS 7 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://video.detik.com/trans7/smil:trans7/chunklist_w734650975_b744100_sleng.m3u8
+http://line.4k-beast.top/live/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505875.ts
+
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+", TRANS 7 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaXMvSVl1WE5sWW0vTWdteSt4OXkzbTFhc3pCTmoxZFY3cnRYWTlSOUhUcA
 
 
 
