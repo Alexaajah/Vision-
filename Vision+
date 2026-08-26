@@ -1877,7 +1877,17 @@ https://boti.my.id/saya.mpd?id=1.&type=backdoor
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://boti.my.id/saya.mpd?id=3.&type=backdoor
  
- #EXTINF:-1 tvg-id="6" tvg-logo="https://www.visionplus.id/images/repository/209/514209-LOGO-m.png" group-title="VISION+BACKUP", 8 TRANS TV
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.visionplus.id/images/repository/209/514209-LOGO-m.png" group-title="VISION+BACKUP", 8 TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://boti.my.id/saya.mpd?id=6.&type=backdoor
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.visionplus.id/images/repository/209/514209-LOGO-m.png" group-title="VISION+BACKUP",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
