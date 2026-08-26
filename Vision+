@@ -1847,7 +1847,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="VISION+BACKUP", 1 INDOSIAR
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.visionplus.id/images/repository/750/507750-LOGO-m.png" group-title="VISION+BACKUP",  2 MNC TV
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.visionplus.id/images/repository/750/507750-LOGO-m.png" group-title="VISION+BACKUP",2 MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1857,7 +1857,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 https://boti.my.id/saya.mpd?id=2.&type=backdoor
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.visionplus.id/images/repository/720/507720-LOGO-m.png" group-title="VISION+BACKUP",  5 RCTI
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.visionplus.id/images/repository/720/507720-LOGO-m.png" group-title="VISION+BACKUP",5 RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1867,7 +1867,7 @@ https://boti.my.id/saya.mpd?id=2.&type=backdoor
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://boti.my.id/saya.mpd?id=1.&type=backdoor
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://www.visionplus.id/images/repository/735/507735-LOGO-m.png" group-title="VISION+BACKUP", 6 GTV
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.visionplus.id/images/repository/735/507735-LOGO-m.png" group-title="VISION+BACKUP",6 GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1877,7 +1877,7 @@ https://boti.my.id/saya.mpd?id=1.&type=backdoor
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://boti.my.id/saya.mpd?id=3.&type=backdoor
  
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.visionplus.id/images/repository/209/514209-LOGO-m.png" group-title="VISION+BACKUP", 8 TRANS TV
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.visionplus.id/images/repository/209/514209-LOGO-m.png" group-title="VISION+BACKUP",8 TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1897,7 +1897,7 @@ https://boti.my.id/saya.mpd?id=6.&type=backdoor
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://boti.my.id/saya.mpd?id=6.&type=backdoor
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.visionplus.id/images/repository/207/514207-LOGO-m.png" group-title="VISION+BACKUP", 7 TRANS 7
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.visionplus.id/images/repository/207/514207-LOGO-m.png" group-title="VISION+BACKUP",7 TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1908,7 +1908,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://boti.my.id/saya.mpd?id=7.&type=backdoor
 
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="VISION+BACKUP", 3 ANTV
+#EXTINF:-1 tvg-id="10" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="VISION+BACKUP",3 ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1918,7 +1918,7 @@ https://boti.my.id/saya.mpd?id=7.&type=backdoor
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://boti.my.id/saya.mpd?id=10.&type=backdoor
 
- #EXTINF:-1 tvg-id="11" tvg-logo="https://www.visionplus.id/images/repository/832/513832-LOGO-m.png" group-title="VISION+BACKUP", 9 RTV
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.visionplus.id/images/repository/832/513832-LOGO-m.png" group-title="VISION+BACKUP",9 RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1942,7 +1942,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-#EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="VISION+BACKUP", 4 SCTV 
+#EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="VISION+BACKUP",4 SCTV 
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
 
