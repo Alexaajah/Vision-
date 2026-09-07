@@ -23,8 +23,8 @@ https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/
 
 
 #EXTINF:-1 tvg-id="807" tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="TV Nasional",SCTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=215-trans-tv&type=wv
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/U0NUVi1teQ/manifest.mpd?signature=YmFkN2U3NDRkOWQ4OGIwYWZhMmMyYjJiMDNmMTk3YzQ=&time=15247605756
 
 
