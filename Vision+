@@ -71,6 +71,12 @@ https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/cnR
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd?signature=MTYyN2RiNjY1MGFlNWZmZWQ3NTgyNjQ2YWM1ODg2NDc=&time=15247624462
 
 
+#EXTINF:-1 tvg-id="225" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Film",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36e95468d635af2b93dee9a828b8b9ef:ee86f469956bfbc9ddea9a68e98b8b9e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd?signature=MTYyN2RiNjY1MGFlNWZmZWQ3NTgyNjQ2YWM1ODg2NDc=&time=15247646346
+
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dee39213-55d3-45e4-9746-24da88453bb4.png" group-title="Film", HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
