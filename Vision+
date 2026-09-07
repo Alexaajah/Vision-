@@ -2,6 +2,8 @@ eror 404 link bad
 
 
 
+#EXTINF:-1 tvg-name="SCTV", SCTV
+http://127.0.0.1:8080/play?id=215
 
 
 
