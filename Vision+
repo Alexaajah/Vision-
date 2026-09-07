@@ -8,8 +8,7 @@ eror 404 link bad
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="tes", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(t-Dax6nNB7E1dNg-2m5D-fuf7I_bTLgipqibnFuX_h3XBeSTBvr9JL9gXApBmClmgrVXOjBudAnXibJEOZ_6ZrYLOQY5uhUR9AgOrgZXp63mUBEtO_S8Un08Buwa_lte)/dm/3/x8qckyq/d/live-480.m3u8
-
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w585650340_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg3NzQzOTE5MDEmd293emF0b2tlbmhhc2g9ZzBscm9Scy1KUlNjT25lLXVRaExQUnZHd3FydUNnQVdUYlRIM2JQSWppST0=.m3u8
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
