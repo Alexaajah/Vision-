@@ -54,6 +54,17 @@ https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dee39213-55d3-45e4-9746-24da88453bb4.png" group-title="Film", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd?signature=ZTU1ZGI4MTM3YjI1ZDk2ZTk2NmFkMmVkMTUxN2Y3MmQ=&time=15247614423
+
+
+
+
+
+
 
 
 
