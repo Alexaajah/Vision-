@@ -57,6 +57,11 @@ https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/TU5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/QU5UVg/manifest.mpd?signature=OTNlN2Y1MDk1MDQ0ODM4ZTE5N2UxMzViNWRhNTYwNjU=&time=15247644656
 
+#EXTINF:-1 tvg-id="246" tvg-name="Rtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f4bd6cd9-d8a5-4f42-8dce-7f332ec55940.jpg" group-title="TV Nasional",RTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/cnR2IENobmw/manifest.mpd?signature=OTYyMjkwNzQ5ZGI1MmNkY2FjZDYyYTU3MWI3MDYyYmM=&time=15247645426
 
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Film", HBO
