@@ -11,6 +11,11 @@ eror 404 link bad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd?signature=NjNmMWMyODY1MTg1NGMxYmRmOTMzYjk0OGQzZDM4MWQ=&time=15247575317
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0f3e22c6-3f1d-46cc-8c53-a239cbd8d691.jpg" group-title="TV Nasional", Trans TV (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/VHJhbnNUVg/index.m3u8?signature=NjNmMWMyODY1MTg1NGMxYmRmOTMzYjk0OGQzZDM4MWQ=&time=15247575317
+
+
 
 
 #EXTM3U 
