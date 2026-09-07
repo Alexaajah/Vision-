@@ -1,12 +1,14 @@
 eror 404 link bad 
 
 
+
+
 #EXTM3U 
 #EXTINF:-1 tvg-id="800.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" tvg-name="Trans TV" group-title="CUB", Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://www.cubmu.com/watch/live-tv/210-trans-tv
-
-
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:b0b8780b7bb849ef9c3dff1eef3d862e
+https://cdnjktbphttps://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd
 
 
 
