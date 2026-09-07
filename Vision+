@@ -45,7 +45,11 @@ https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/UkN
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=OTY4ZDIwZGZjZmMxYzQxYWYzZjMzYWExNDE5NDVkYzg=&time=15247610374
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="817" tvg-name="MNC TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="TV Nasional",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/TU5DVFY/manifest.mpd?signature=MTg3YzIwMmFkMzBkMzdhZWUzYmI2ZTI4MjlkNTFlOTM=&time=15247611144
 
 
 
