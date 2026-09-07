@@ -6,6 +6,21 @@ eror 404 link bad
 
 
 
+
+Trans7 (transport) 
+
+#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 HD (Transcorp)
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w407664388_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg3NzU5MTM5MDMmd293emF0b2tlbmhhc2g9VGZqeWdpV2tyb0l1TUc1QVR0bXVrVEhldDZudEo4WElFN1FKTml3NVJXUT0=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 HD (Transcorp)
+https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+
+
+
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="tes", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://live.eu-north-1a.cf.dmcdn.net/sec2(Efr7cMdmoilrmYCM54M5A4zZTScBNzV7i1fDeeVwT_c3CeVFCSJj1dKu-vdyHeTaCCeD-4Q2RrgFjOQQmqQazaPQNuvKkLjvU5PQiSARHKk8sSqePUMZd-JzG6ubnikH)/dm/3/x8qckyq/d/live-480.m3u8
