@@ -16,6 +16,11 @@ https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/
 https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/VHJhbnNUVg/index.m3u8?signature=NjNmMWMyODY1MTg1NGMxYmRmOTMzYjk0OGQzZDM4MWQ=&time=15247575317
 https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd?signature=NjNmMWMyODY1MTg1NGMxYmRmOTMzYjk0OGQzZDM4MWQ=&time=15247575317
 
+#EXTM3U
+#EXTINF:-1 tvg-id="800" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0f3e22c6-3f1d-46cc-8c53-a239cbd8d691.jpg" group-title="TV Nasional",Trans TV2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=210-trans-tv&type=wv
+https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd?signature=NjNmMWMyODY1MTg1NGMxYmRmOTMzYjk0OGQzZDM4MWQ=&time=15247602720
 
 
 
