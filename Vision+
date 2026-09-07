@@ -2,8 +2,7 @@ eror 404 link bad
 
 
 
-#EXTINF:-1 tvg-name="SCTV", SCTV
-http://127.0.0.1:8080/play?id=215
+
 
 
 
@@ -50,14 +49,6 @@ https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/R1R
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/TU5DVFY/manifest.mpd?signature=MTg3YzIwMmFkMzBkMzdhZWUzYmI2ZTI4MjlkNTFlOTM=&time=15247623443
-
-
-
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="TV Nasional", SCTV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/U0NUVi1teQ/manifest.mpd?signature=YmFkN2U3NDRkOWQ4OGIwYWZhMmMyYjJiMDNmMTk3YzQ=&time=15247615737
 
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dee39213-55d3-45e4-9746-24da88453bb4.png" group-title="Film", HBO Signature
