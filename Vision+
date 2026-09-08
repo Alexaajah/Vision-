@@ -91,6 +91,11 @@ https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJ
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd?signature=ZTU1ZGI4MTM3YjI1ZDk2ZTk2NmFkMmVkMTUxN2Y3MmQ=&time=15247624626
 
+#EXTM3U
+#EXTINF:-1 tvg-id="225" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Transvision / CubMu",Channel 225 (HLS - MultiDRM)
+https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/SEJPLW15/index.m3u8
+#EXTINF:-1 tvg-id="225" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Transvision / CubMu",Channel 225 (Dash - ClearKey)
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd
 
 
 
