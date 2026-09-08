@@ -28,6 +28,11 @@ https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/
 #KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=216-trans-tv&type=wv
 https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SW5kb3NpYXI/vx9-mdrmprt02/manifest.mpd?signature=ODdmMmY1ZjJiYzViNTY5Y2I4YjFlNGYxOTZlOTczZGE=&time=15247606215
 
+#EXTINF:-1 tvg-id="808" tvg-name="Indosiar" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3bb772b1-633e-4af2-abce-a617eda98c18.png" group-title="TV Nasional",Indosiar
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=216-indosiar&type=wv
+https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SW5kb3NpYXI/vx9-mdrmprt02/manifest.mpd?signature=ODdmMmY1ZjJiYzViNTY5Y2I4YjFlNGYxOTZlOTczZGE=&time=15247606215
 
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="TV Nasional", SCTV
