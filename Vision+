@@ -97,6 +97,9 @@ https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/
 #EXTINF:-1 tvg-id="225" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Transvision / CubMu",Channel 225 (Dash - ClearKey)
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd
 
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="225" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Film",HBO HD (DASH - ClearKey)
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd?signature=MTYyN2RiNjY1MGFlNWZmZWQ3NTgyNjQ2YWM1ODg2NDc=&time=15247657275
 
 
 
