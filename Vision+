@@ -63,43 +63,49 @@ https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/QU5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/cnR2IENobmw/manifest.mpd?signature=OTYyMjkwNzQ5ZGI1MmNkY2FjZDYyYTU3MWI3MDYyYmM=&time=15247645426
 
-
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Film", HBO
+#EXTINF:-1 tvg-id="230" tvg-name="Bioskop Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="TV Nasional",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd?signature=MTYyN2RiNjY1MGFlNWZmZWQ3NTgyNjQ2YWM1ODg2NDc=&time=15247624462
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=MDc1ZDk0ZGE1MGEzYmVhNDA5NWVjOTNlYjExMWZmMmE=&time=15247667206
 
-
-#EXTINF:-1 tvg-id="225" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Film",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36e95468d635af2b93dee9a828b8b9ef:ee86f469956bfbc9ddea9a68e98b8b9e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd?signature=MTYyN2RiNjY1MGFlNWZmZWQ3NTgyNjQ2YWM1ODg2NDc=&time=15247646346
-
-
-#EXTINF:-1 tvg-id="225" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Film",HBO
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=225-trans-tv&type=wv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/&Device-Token=1788824806.5a535ed5c2eaa79a6a104151fa5ab532e723808ef1e739fd3b448419a159b3c2
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd?signature=MTYyN2RiNjY1MGFlNWZmZWQ3NTgyNjQ2YWM1ODg2NDc=&time=15247646346
-
-
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dee39213-55d3-45e4-9746-24da88453bb4.png" group-title="Film", HBO Signature
+#EXTINF:-1 tvg-id="232" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bec4b1b-262f-44e0-821f-a3897ce93251.jpg" group-title="TV Nasional",Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd?signature=ZTU1ZGI4MTM3YjI1ZDk2ZTk2NmFkMmVkMTUxN2Y3MmQ=&time=15247624626
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VGhyaWxs/manifest.mpd?signature=Zjg4Zjc4OTI0ZmY2MGJkY2NlOWQyZDY3YTEyYjFkMjE=&time=15247667744
 
-#EXTM3U
-#EXTINF:-1 tvg-id="225" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Transvision / CubMu",Channel 225 (HLS - MultiDRM)
-https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/SEJPLW15/index.m3u8
-#EXTINF:-1 tvg-id="225" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Transvision / CubMu",Channel 225 (Dash - ClearKey)
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd
+#EXTINF:-1 tvg-id="233" tvg-name="Cartoonito" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/c1bf1e66-ba24-4325-afdf-ba4371dcb787.jpg" group-title="TV Nasional",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Q2FydG9vbml0bw/manifest.mpd?signature=YTViMGM2NjBiYTg3Y2I2MzFmZDc5MWQ5MmY2MDgyZWM=&time=15247670037
 
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="225" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="Film",HBO HD (DASH - ClearKey)
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/SEJPLW15/manifest.mpd?signature=MTYyN2RiNjY1MGFlNWZmZWQ3NTgyNjQ2YWM1ODg2NDc=&time=15247657275
+#EXTINF:-1 tvg-id="247" tvg-name="Channel Jowo" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/64efefa1-5f19-47e4-ac3d-7a871b590a23.jpg" group-title="TV Nasional",Channel Jowo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Q2hhbm5lbCBKb3dv/manifest.mpd?signature=MDY0YjFlZTU3NWZhMDk5YzU0OTY3YmE2NTZhZGM0MDQ=&time=15247670615
+
+#EXTINF:-1 tvg-id="248" tvg-name="Cartoon TV Premium" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg" group-title="TV Nasional",Cartoon TV Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd?signature=ZDUzMDY2NWYyM2Y1NWM4ZTIzMDczNmY0YjQ3Njc2M2Q=&time=15247670707
+
+#EXTINF:-1 tvg-id="249" tvg-name="Cartoon TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg" group-title="TV Nasional",Cartoon TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Q2FydG9vbiBUVg/manifest.mpd?signature=Mjk0ZWY5MTU2OWQyNzVjNzM0YzIzMDM5MjBjOTkyYmM=&time=15247671013
+
+#EXTINF:-1 tvg-id="327" tvg-name="GTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/7fc3f94e-3743-40d1-bcd4-b1618294bcb6.png" group-title="TV Nasional",GTV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdntm04.transvision.co.id/trv-GTV-dash/manifest.m3u8?signature=NzVjMDgxZDI2MmJlYmI5ZDgwOGNjY2E1OWE2N2MwZTA=&time=15247671160
+
+
 
 
 
