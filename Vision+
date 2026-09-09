@@ -12,6 +12,35 @@ eror 404 link bad
 
 
 
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="210" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TV Nasional",Trans TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Sr8f0m6MRaW2uuYM9v/CuQ==","kid":"b/ucU68oT9WQIX7eHrp2Xg=="}],"type":"temporary"}
+#KODIPROP:stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15250125660
+
+#EXTINF:-1 tvg-id="201" tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ffa3f8aa-db6e-457e-b7b9-82396bb2c629.jpg" group-title="TV Nasional",Trans 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Sr8f0m6MRaW2uuYM9v/CuQ==","kid":"b/ucU68oT9WQIX7eHrp2Xg=="}],"type":"temporary"}
+#KODIPROP:stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd?signature=YmYwNjBmZDliMmQwZGQ2NmVjNWM1NzUyMWM1ZWEyNWU=&time=15250126226
+
+#EXTINF:-1 tvg-id="216" tvg-name="Indosiar" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/efc56c4c-23e5-43a5-8dbd-0697b99438cd.png" group-title="TV Nasional",Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Sr8f0m6MRaW2uuYM9v/CuQ==","kid":"b/ucU68oT9WQIX7eHrp2Xg=="}],"type":"temporary"}
+#KODIPROP:stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SW5kb3NpYXI/manifest.mpd?signature=YTRmYzgxYTE5MzlhYzQ5NzRkNmU0MDA3MjU1NDBkMmM=&time=15250126356
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="800" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0f3e22c6-3f1d-46cc-8c53-a239cbd8d691.jpg" group-title="TV Nasional",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
