@@ -7,6 +7,13 @@ eror 404 link bad
 #EXTINF:-1 tvg-id="210" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TV Nasional",Trans TV HD (HLS)
 https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/VHJhbnNUVg/index.m3u8
 
+#EXTINF:-1 tvg-id="210" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TV Nasional",Trans TV HD (HLS)1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/VHJhbnNUVg/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="210" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TV Nasional",Trans TV HD 1
 #KODPROP:inputstream.adaptive.license_type=clearkey
 #KODPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
