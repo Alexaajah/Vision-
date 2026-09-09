@@ -19,20 +19,19 @@ eror 404 link bad
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7 1
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/192207.m3u8
 
 
 
 #EXTM3U
-#EXTM3U
+
 
 #EXTINF:-1 tvg-id="201" tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ffa3f8aa-db6e-457e-b7b9-82396bb2c629.jpg" group-title="TV Nasional",Trans1 7
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=201-trans-tv&type=wv
 https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/VFJBTlM3LW15/index.m3u8?signature=YmYwNjBmZDliMmQwZGQ2NmVjNWM1NzUyMWM1ZWEyNWU=&time=15250260457
 
-#EXTM3U
 
 #EXTINF:-1 tvg-id="201" tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ffa3f8aa-db6e-457e-b7b9-82396bb2c629.jpg" group-title="TV Nasional",Trans2 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,6 +39,11 @@ https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd?signature=YmYwNjBmZDliMmQwZGQ2NmVjNWM1NzUyMWM1ZWEyNWU=&time=15250260457
 
+#EXTINF:-1 tvg-id="201" tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ffa3f8aa-db6e-457e-b7b9-82396bb2c629.jpg" group-title="TV Nasional",Trans3 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Sr8f0m6MRaW2uuYM9v/CuQ==","kid":"b/ucU68oT9WQIX7eHrp2Xg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd?signature=YmYwNjBmZDliMmQwZGQ2NmVjNWM1NzUyMWM1ZWEyNWU=&time=15250260457
 
 
 
@@ -177,17 +181,15 @@ https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/inde
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="tes", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(uA-GaUIpWE4I9tK6cJexRboe3dLcL0-dGeDCx6gwAI3H-_kebcFnzCs-1nth9_yD--VEoJtLyHzUbSwe0YFjf-b2WzdxTrBT9fkLcnSPUmzSL3AmwWC5xwwaHup5obDe)/dm/3/x8qckyq/d/live-480.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(WChhcnC28GbM97sTCVvvdKi_qrzyzVbHRaVqD2VJuUH4Uz_SpYINlHg4g2k9ulpxW3BBv1EFen3VTi7SaIWHVjxOMlVfnXUn8rMo2SfKKIy78i2AaPyQd8nZK7BcTXge)/dm/3/x8qckyq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(uA-GaUIpWE4I9tK6cJexRboe3dLcL0-dGeDCx6gwAI3H-_kebcFnzCs-1nth9_yD--VEoJtLyHzUbSwe0YFjf-b2WzdxTrBT9fkLcnSPUmzSL3AmwWC5xwwaHup5obDe)/dm/3/x8qckyq/d/live-480.m3u8
-
+https://live.eu-north-1a.cf.dmcdn.net/sec2(WChhcnC28GbM97sTCVvvdKi_qrzyzVbHRaVqD2VJuUH4Uz_SpYINlHg4g2k9ulpxW3BBv1EFen3VTi7SaIWHVjxOMlVfnXUn8rMo2SfKKIy78i2AaPyQd8nZK7BcTXge)/dm/3/x8qckyq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+BACKUP", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(uA-GaUIpWE4I9tK6cJexRboe3dLcL0-dGeDCx6gwAI3H-_kebcFnzCs-1nth9_yD--VEoJtLyHzUbSwe0YFjf-b2WzdxTrBT9fkLcnSPUmzSL3AmwWC5xwwaHup5obDe)/dm/3/x8qckyq/d/live-480.m3u8
-
+https://live.eu-north-1a.cf.dmcdn.net/sec2(WChhcnC28GbM97sTCVvvdKi_qrzyzVbHRaVqD2VJuUH4Uz_SpYINlHg4g2k9ulpxW3BBv1EFen3VTi7SaIWHVjxOMlVfnXUn8rMo2SfKKIy78i2AaPyQd8nZK7BcTXge)/dm/3/x8qckyq/d/live-720.m3u8
 
 
 
