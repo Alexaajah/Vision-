@@ -24,6 +24,11 @@ eror 404 link bad
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdnts=exp=1788959251~acl=/stream/205/res=1080p/file/stream.mpd!/stream/205/file/*/aac/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=226005589~hmac=91c1e1cc635676a1f4f90817340d6ee34c0a87fbdbc139a164ac17517145d58f
 
 
+Langsung saja kayak gini.
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/192207.m3u8
+
+
 
 #EXTM3U
 
