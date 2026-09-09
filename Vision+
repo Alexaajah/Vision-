@@ -18,6 +18,10 @@ eror 404 link bad
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://static-s.vidio.com/assets/funtion/channel_logo/indosiar.png" group-title="Tes", Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.vidio.com&Referer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdnts=exp=1788959251~acl=/stream/205/res=1080p/file/stream.mpd!/stream/205/file/*/aac/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=226005589~hmac=91c1e1cc635676a1f4f90817340d6ee34c0a87fbdbc139a164ac17517145d58f
 
 
 
