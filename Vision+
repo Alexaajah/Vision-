@@ -149,7 +149,42 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/TXV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/U29uZyBUVg/manifest.mpd?signature=ZjJlMGI1Yjg4M2ZiZTA2OWRiNDNmZjE4ZmJiMzUyNzc=&time=15247721166
 
+#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="TV Nasional",HBO FHD
+https://ogietv.biz.id:443/Livetv/234/1363.m3u8
+#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="TV Nasional",HBO HD
+https://ogietv.biz.id:443/Livetv/234/1364.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="TV Nasional",HBO SIGNATURE FHD
+https://ogietv.biz.id:443/Livetv/234/1365.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="TV Nasional",HBO SIGNATURE HD
+https://ogietv.biz.id:443/Livetv/234/1366.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="TV Nasional",HBO HITS FHD
+https://ogietv.biz.id:443/Livetv/234/1367.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="TV Nasional",HBO HITS HD
+https://ogietv.biz.id:443/Livetv/234/1368.m3u8
+#EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="TV Nasional",HBO FAMILY FHD
+https://ogietv.biz.id:443/Livetv/234/1369.m3u8
+#EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="TV Nasional",HBO FAMILY HD
+https://ogietv.biz.id:443/Livetv/234/1370.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="TV Nasional", CINEMAX FH
+https://ogietv.biz.id:443/Livetv/234/1371.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="TV Nasional", CINEMAX HD
+https://ogietv.biz.id:443/Livetv/234/1372.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9EsTA-Rj6Xn0pPYAMmaxJ4fQ93P0ZmNh8Q&usqp=CAU" group-title="TV Nasional", WARNER TV HD
+https://ogietv.biz.id:443/Livetv/234/1387.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9EsTA-Rj6Xn0pPYAMmaxJ4fQ93P0ZmNh8Q&usqp=CAU" group-title="TV Nasional", WARNER TV FHD
+https://ogietv.biz.id:443/Livetv/234/1388.m3u8
 
+##EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV Nasional", TRANS 7 FHD
+https://ogietv.biz.id:443/Livetv/234/1312.m3u8
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV Nasional", TRANS 7 HD
+https://ogietv.biz.id:443/Livetv/234/1313.m3u8
+
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXorlOXd_rW-sny5VAYf1Cv9gDpaXjqQ0ZquygkagnmVVMCZT6d4DLQI&s=10" group-title="TV Nasional",TransTV FHD
+https://ogietv.biz.id:443/Livetv/234/1312.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXorlOXd_rW-sny5VAYf1Cv9gDpaXjqQ0ZquygkagnmVVMCZT6d4DLQI&s=10" group-title="TV Nasional",TransTV HD
+https://ogietv.biz.id:443/Livetv/234/1310.m3u8
 
 
 
