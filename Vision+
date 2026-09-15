@@ -42,7 +42,7 @@ https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=782&type=drm
-https://calistaiptv.my.id/indopart/play.mpd?id=782&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=782&type=dash
 
 #EXTINF:-1 group-title="NASIONAL",MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
