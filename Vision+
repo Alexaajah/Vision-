@@ -3,6 +3,60 @@ eror 404 link bad
 
 
 
+
+#EXTM3U
+
+# --- CHANNEL LOKAL (TRANS MEDIA) ---
+#EXTINF:-1 group-title="NASIONAL",TRANS7
+https://quiet-sky-6166.stbbh43.workers.dev/trans7.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",TRANSTV
+https://quiet-sky-6166.stbbh43.workers.dev/transtv.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",CNN INDONESIA
+https://quiet-sky-6166.stbbh43.workers.dev/cnn.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",CNBC INDONESIA
+https://quiet-sky-6166.stbbh43.workers.dev/cnbc.m3u8
+
+# --- CHANNEL DRM (VISION / CALISTA) ---
+#EXTINF:-1 group-title="NASIONAL",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
+
+#EXTINF:-1 group-title="NASIONAL",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+
+#EXTINF:-1 group-title="NASIONAL",ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=782&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=782&type=drm
+
+#EXTINF:-1 group-title="NASIONAL",MOJI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=206&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=206&type=dash
+
+
+
+
+
+
 #EXTM3U
 
 
