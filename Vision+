@@ -30,13 +30,6 @@ https://transdetik.stbbh43.workers.dev/cnbc.m3u8
 https://transdetik.stbbh43.workers.dev/20detik.m3u8
 
 
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTV_Logo_2014.png" group-title="Indonesia",RTV
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8?app_type=web&userid=lite&chname=RTV
-
-
 #EXTM3U
 
 # --- CHANNEL DRM (VISION / CALISTA) ---
