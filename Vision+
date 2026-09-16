@@ -13,21 +13,22 @@ eror 404 link bad
 
 
 #EXTM3U 
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTV_Logo_2014.png" group-title="Nasional",RTV
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTV_Logo_2014.png" group-title="NASIONAL",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 group-title="Nasional",Trans 7
+#EXTINF:-1 group-title="NASIONAL",Trans 7
 https://transdetik.stbbh43.workers.dev/trans7.m3u8
-#EXTINF:-1 group-title="Nasional",Trans TV
+#EXTINF:-1 group-title="NASIONAL",Trans TV
 https://transdetik.stbbh43.workers.dev/transtv.m3u8
-#EXTINF:-1 group-title="Nasional",CNN Indonesia
+#EXTINF:-1 group-title="NASIONAL",CNN Indonesia
 https://transdetik.stbbh43.workers.dev/cnn.m3u8
-#EXTINF:-1 group-title="Nasional",CNBC Indonesia
+#EXTINF:-1 group-title="NASIONAL",CNBC Indonesia
 https://transdetik.stbbh43.workers.dev/cnbc.m3u8
-#EXTINF:-1 group-title="Nasional",20 Detik
+#EXTINF:-1 group-title="NASIONAL",20 Detik
 https://transdetik.stbbh43.workers.dev/20detik.m3u8
+
 
 
 
