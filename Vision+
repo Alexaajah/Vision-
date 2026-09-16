@@ -2514,5 +2514,53 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-32777
 
 ==============VISION++==============
 
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV HD" tvg-logo="https://tv.ngebutz.my.id/images/mdtv_hd.png" group-title="TOKO",MDTV HD
+https://tv.ngebutz.my.id/live/e/888566e5a8aab4f2961669221aef7f0e-9d21f3c2e962227ff3fcbf2b54ae32a941602b1885b4c6753636c5bf17a0fa4b/stream_mdtv_hd.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://tv.ngebutz.my.id/images/sctv_hd.png" group-title="TOKO",SCTV HD
+https://tv.ngebutz.my.id/live/e/e7f869d44bab0b7bb814d481845da708-24850c15e03b68a838d0da3b6e1ff3ed9848c71d10e2e2553a10975d08e8a6eb/stream-1786606494368-hyq7.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR HD" tvg-logo="https://tv.ngebutz.my.id/images/indosiar_hd.png" group-title="TOKO",INDOSIAR HD
+https://tv.ngebutz.my.id/live/e/2fb205ea7b0d6e6f6f10e26f4e1d3f49-476af24e9cdab63b340aecf64af9048f37d6cdef07f478686311a5e43ea606e9/stream-1786621665832-kslx.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="mOji.id" tvg-name="MOJI HD" tvg-logo="https://tv.ngebutz.my.id/images/moji_hd.png" group-title="TOKO",MOJI HD
+https://tv.ngebutz.my.id/live/e/2b56e4d4ecb59c85e667ea5116085a91-755e40122ab3214a8ecd91b0cf1a686b57ecb9bd4fc49656a2e2bceaad09bca6/stream-1786621665833-bmrd.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="MENTARI TV HD" tvg-logo="https://tv.ngebutz.my.id/images/mentari_tv_hd.png" group-title="TOKO",MENTARI TV HD
+https://tv.ngebutz.my.id/live/e/e2ed84ebe286b9b7d840fc5ed169a367-d6bf86b939a8cad56349bb02004c640cb2638c9e244dc17178ebc4e4f4677c56/stream-1786621665833-qitc.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://tv.ngebutz.my.id/images/rcti_hd.png" group-title="TOKO",RCTI HD
+https://tv.ngebutz.my.id/live/e/6ea161636d4f3c5fabb8fe29425a6755-f8eb34cdb0e6a9063a8680ba9a63526383dcdea281e1475d0f4d918acfa3de27/stream-1786621724768-f6lu.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV HD" tvg-logo="https://tv.ngebutz.my.id/images/mnc_tv_hd.png" group-title="TOKO",MNC TV HD
+https://tv.ngebutz.my.id/live/e/ebc4cd98116de82f6be5df630ed3c129-d901c38796d280be94d8233112ce4031753a86bbfa2f865089a0475b2f3bf558/stream-1786621724769-3xic.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://tv.ngebutz.my.id/images/gtv_hd.png" group-title="TOKO",GTV HD
+https://tv.ngebutz.my.id/live/e/b902fd6d58b5d32260481a7254420b21-d8cc9ad810d4361ae0d3c56090dce00580eab2c7a656cc600c8fa156ef76b59f/stream-1786621724769-6tdm.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="INEWS HD" tvg-logo="https://tv.ngebutz.my.id/images/inews_hd.png" group-title="TOKO",INEWS HD
+https://tv.ngebutz.my.id/live/e/8b1c0c8abf7d2c9a1526ff76dc3b0ed1-b3fd5d061b102a4b30f65fba6eb3638fa55250c499da05e86ffedb2c325efdca/stream-1786621773921-w35o.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV HD" tvg-logo="https://tv.ngebutz.my.id/images/trans_tv_hd.png" group-title="TOKO",TRANS TV HD
+https://tv.ngebutz.my.id/live/e/b52ce675c933d8dffaec7f86bab5de9a-2dac80c05ed107a3345c527000c42600c6b668d15e33ebb68dea3138838f3682/stream-1786621773922-6ghi.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://tv.ngebutz.my.id/images/trans_7_hd.png" group-title="TOKO",TRANS 7 HD
+https://tv.ngebutz.my.id/live/e/8ed1a7d0c790a6e1b4b27f507b5cce88-513d8d7eb5ca7cb194f65c61f66686e0af951b7e2eaf0b0965f83d9053decade/stream-1786621773922-cbx1.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN INDONESIA HD" tvg-logo="https://tv.ngebutz.my.id/images/cnn_indonesia_hd.png" group-title="TOKO",CNN INDONESIA HD
+https://tv.ngebutz.my.id/live/e/239f663013d3c32c9ea7dd0519f75dea-8738a39b596fae84fe7cbd97a4eee1b109368610c6535d46c6a49df27e62fb5a/stream-1786621773922-17cp.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC INDONESIA HD" tvg-logo="https://tv.ngebutz.my.id/images/cnbc_indonesia_hd.png" group-title="TOKO",CNBC INDONESIA HD
+https://tv.ngebutz.my.id/live/e/45dcad59dc7470e966087cedf085c8fb-747770bb6512a9f8a8b4a4d92a5b32ad59abcd36a5e73e0149fbae595ae1e86a/stream-1786621812296-jb54.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV HD" tvg-logo="https://tv.ngebutz.my.id/images/antv_hd.png" group-title="TOKO",ANTV HD
+https://tv.ngebutz.my.id/live/e/80cd259fc135de349d35ebdf1e5a9e9d-c4880f955d7c7e5846c04f2dd527ad4ddddbdabc57e394fb6aa418f01b0268aa/stream-1786621812296-5thd.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TV ONE HD" tvg-logo="https://tv.ngebutz.my.id/images/tv_one_hd.png" group-title="TOKO",TV ONE HD
+https://tv.ngebutz.my.id/live/e/503caeb127f78ff33f4060f17d2cbe4b-6782fcf25577f07f327b127e3c9b74e95c1ab4402799c1430edd3f7144909b80/stream-1786621812296-dvz3.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV HD" tvg-logo="https://tv.ngebutz.my.id/images/metro_tv_hd.png" group-title="TOKO",METRO TV HD
+https://tv.ngebutz.my.id/live/e/953dc80be9df72b726575144c5f7db1d-e07eb46bebf7c6242bb4230ae8e5ed113796386fadf086f74b450999c1be90ce/stream-1786621812296-1cck.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="JAKTV" tvg-logo="https://tv.ngebutz.my.id/images/jaktv.png" group-title="TOKO",JAKTV
+https://tv.ngebutz.my.id/live/e/2a7ef085478d56ccf91a05b63172e30a-155fee476395eaa4a3f26597703edcb3b5397f37fe2964ff06565f97d32b1660/stream-1786621857242-z8gb.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="" tvg-name="MAGNA CHANNEL HD" tvg-logo="https://tv.ngebutz.my.id/images/magna_channel_hd.png" group-title="TOKO",MAGNA CHANNEL HD
+https://tv.ngebutz.my.id/live/e/56f4c57c59f8e03a6b2f7bb19d43a183-957e5b00bb9b60898d6dd2699c25d4d7bd6609ec3e4984f78724aee9ca7eb70d/stream-1786621857242-2j65.m3u8?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI HD" tvg-logo="https://tv.ngebutz.my.id/images/tvri_TOKO_hd.png" group-title="TOKO",TVRI HD
+https://tv.ngebutz.my.id/live/e/fe8f84044dd4fc36fcc191df4bb84a54-de37b7e851a8df04b22933e3325bdb277550c25cc9280fcc16885d644d450e0e/stream-1786621857242-r6nc.m3u8?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV HD" tvg-logo="https://tv.ngebutz.my.id/images/rtv_hd.png" group-title="TOKO",RTV HD
+https://tv.ngebutz.my.id/live/e/981e355a035cb4c43cf9cb8b589d41d4-c89f8d7bdca35d3df45b658bed314efc8e67fbfcf699b18a5b5c9810f2adfbf4/stream-1786621893722-wkna.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV HD" tvg-logo="https://tv.ngebutz.my.id/images/kompas_tv_hd.png" group-title="TOKO",KOMPAS TV HD
+https://tv.ngebutz.my.id/live/e/45d5d40be97396aad31359446dd869d5-cfde3db6ab7279ddc357826d5d89751e43236a0dce64a5d58740686ac5fa25b9/stream-1786621893722-tfnf.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV HD" tvg-logo="https://tv.ngebutz.my.id/images/btv_hd.png" group-title="TOKO",BTV HD
+https://tv.ngebutz.my.id/live/e/e2991c37e6e80eb8677259d0d915c7eb-ca18ea055330d6c87ddaf7e8bcef5bbc69645e79bd871247bad94859d6ef72bb/stream-1786621893722-mv8f.m3u8?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="AntaraTV.id" tvg-name="ANTARA TV HD" tvg-logo="https://tv.ngebutz.my.id/images/antara_tv_hd.png" group-title="TOKO",ANTARA TV HD
+https://tv.ngebutz.my.id/live/e/d96a34e2ff8935fd9cad951e29fcc037-3e3f5ca7e99b6aa740193ac3105565d8cb226eeceb983f3e4f370f9891cc115f/stream-1786621932147-7diy.ts?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV HD" tvg-logo="https://tv.ngebutz.my.id/images/daai_tv_hd.png" group-title="TOKO",DAAI TV HD
+https://tv.ngebutz.my.id/live/e/ba33e53d5727a392000dd1eb380d957f-d9391c96dbc38ff5dbd584010ed62f0a3a167666c3cefb184328485dd3829779/stream-1786621932147-y403.m3u8?exp=1789612605&sign=7487479d5bc2d845875e5ef257300adbfe6f124c9d1090f3ba0f74d1b65ab698
 
 
