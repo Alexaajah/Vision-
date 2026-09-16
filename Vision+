@@ -1,5 +1,18 @@
 eror 404 link bad
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTV_Logo_2014.png" group-title="Nasional",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -25,37 +38,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8?app_type=web&userid=lite&c
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/RCTI_2015.png" group-title="Indonesian TV",RCTI HD (Vision+)
-#KODPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODPROP:inputstream.adaptive.license_key=https://cwip-prod.widevine.com/cwm/license|Content-Type=application/octet-stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/RCTI_2015.png" group-title="Indonesian TV",RCTI HD1 (Vision+)
-#KODPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODPROP:inputstream.adaptive.license_key=https://la.mobi.visionplus.id/licensing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/RCTI_2015.png" group-title="Indonesian TV",RCTI HD2 (Vision+)
-#KODPROP:inputstream.adaptive.license_type=clearkey
-#KODPROP:inputstream.adaptive.license_key=KID_32_HEX:KEY_32_HEX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-
-
-
-
-
-
 
 # --- CHANNEL DRM (VISION / CALISTA) ---
 #EXTINF:-1 group-title="NASIONAL",SCTV HD
@@ -89,40 +71,6 @@ https://calistaiptv.my.id/indopart/play.mpd?id=782&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=206&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=206&type=dash
-
-
-
-
-
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV Nasional", INDOSIAR +
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Indosiar
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="TV Nasional",SCTV +
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=SCTV
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
@@ -241,42 +189,6 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/TXV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/U29uZyBUVg/manifest.mpd?signature=ZjJlMGI1Yjg4M2ZiZTA2OWRiNDNmZjE4ZmJiMzUyNzc=&time=15247721166
 
-#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="TV Nasional",HBO FHD
-https://ogietv.biz.id:443/Livetv/234/1363.m3u8
-#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="TV Nasional",HBO HD
-https://ogietv.biz.id:443/Livetv/234/1364.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="TV Nasional",HBO SIGNATURE FHD
-https://ogietv.biz.id:443/Livetv/234/1365.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="TV Nasional",HBO SIGNATURE HD
-https://ogietv.biz.id:443/Livetv/234/1366.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="TV Nasional",HBO HITS FHD
-https://ogietv.biz.id:443/Livetv/234/1367.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="TV Nasional",HBO HITS HD
-https://ogietv.biz.id:443/Livetv/234/1368.m3u8
-#EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="TV Nasional",HBO FAMILY FHD
-https://ogietv.biz.id:443/Livetv/234/1369.m3u8
-#EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="TV Nasional",HBO FAMILY HD
-https://ogietv.biz.id:443/Livetv/234/1370.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="TV Nasional", CINEMAX FH
-https://ogietv.biz.id:443/Livetv/234/1371.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="TV Nasional", CINEMAX HD
-https://ogietv.biz.id:443/Livetv/234/1372.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9EsTA-Rj6Xn0pPYAMmaxJ4fQ93P0ZmNh8Q&usqp=CAU" group-title="TV Nasional", WARNER TV HD
-https://ogietv.biz.id:443/Livetv/234/1387.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9EsTA-Rj6Xn0pPYAMmaxJ4fQ93P0ZmNh8Q&usqp=CAU" group-title="TV Nasional", WARNER TV FHD
-https://ogietv.biz.id:443/Livetv/234/1388.m3u8
-
-##EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV Nasional", TRANS 7 FHD
-https://ogietv.biz.id:443/Livetv/234/1312.m3u8
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV Nasional", TRANS 7 HD
-https://ogietv.biz.id:443/Livetv/234/1313.m3u8
-
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXorlOXd_rW-sny5VAYf1Cv9gDpaXjqQ0ZquygkagnmVVMCZT6d4DLQI&s=10" group-title="TV Nasional",TransTV FHD
-https://ogietv.biz.id:443/Livetv/234/1312.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXorlOXd_rW-sny5VAYf1Cv9gDpaXjqQ0ZquygkagnmVVMCZT6d4DLQI&s=10" group-title="TV Nasional",TransTV HD
-https://ogietv.biz.id:443/Livetv/234/1310.m3u8
 
 
 
@@ -290,8 +202,7 @@ Trans7 (transport)
 
 
 #EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 HD (Transcorp)
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
-
+https://transdetik.stbbh43.workers.dev/trans7.m3u8
 
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="tes", TRANS 7 2
