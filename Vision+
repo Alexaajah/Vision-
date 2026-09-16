@@ -12,7 +12,6 @@ eror 404 link bad
 
 
 
-
 #EXTM3U 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTV_Logo_2014.png" group-title="Nasional",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
