@@ -203,18 +203,15 @@ Trans7 (transport)
 https://transdetik.stbbh43.workers.dev/trans7.m3u8
 
 
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="tes", TRANS 7 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(WChhcnC28GbM97sTCVvvdKi_qrzyzVbHRaVqD2VJuUH4Uz_SpYINlHg4g2k9ulpxW3BBv1EFen3VTi7SaIWHVjxOMlVfnXUn8rMo2SfKKIy78i2AaPyQd8nZK7BcTXge)/dm/3/x8qckyq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(WChhcnC28GbM97sTCVvvdKi_qrzyzVbHRaVqD2VJuUH4Uz_SpYINlHg4g2k9ulpxW3BBv1EFen3VTi7SaIWHVjxOMlVfnXUn8rMo2SfKKIy78i2AaPyQd8nZK7BcTXge)/dm/3/x8qckyq/d/live-720.m3u8
+https://transdetik.stbbh43.workers.dev/trans7.m3u8
+
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+BACKUP", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(WChhcnC28GbM97sTCVvvdKi_qrzyzVbHRaVqD2VJuUH4Uz_SpYINlHg4g2k9ulpxW3BBv1EFen3VTi7SaIWHVjxOMlVfnXUn8rMo2SfKKIy78i2AaPyQd8nZK7BcTXge)/dm/3/x8qckyq/d/live-720.m3u8
-
+https://transdetik.stbbh43.workers.dev/trans7.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="VISION+",SCTV 1
