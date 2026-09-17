@@ -1,6 +1,12 @@
 eror 404 link bad
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV",Trans TV (Proxy Termux)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+http://127.0.0.1:8080/transtv.mpd
 
 
 
