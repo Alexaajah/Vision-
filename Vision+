@@ -13,7 +13,7 @@ eror 404 link bad
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15252517361
 
 
-#EXTM3U url-tvg="https://example.com/epg.xml.gz"
+#EXTM3U 
 
 # --- STREAM UTAMA (DASH - CLEARKEY) ---
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TES" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.cubmu.com/",Trans TV (DASH ClearKey)
@@ -43,6 +43,43 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VHJ
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid02.transvision.co.id/epyc-tx01/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15252670004
 
+#EXTM3U
+
+# --- STREAM UTAMA (DASH - CLEARKEY) ---
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TES",Trans TV (DASH ClearKey)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15252670004
+
+# --- STREAM ALTERNATIF 1 (HLS CLEARKEY FIXED) ---
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/dc56e51c-f8d4-40d9-bcbd-218f2eb88e40.jpg" group-title="TES",Trans TV (HLS Main)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+https://cdnjktbpid01.transvision.co.id/riutx01-1e53a0a17dec3e103432eeb8b5cdb31b/hls/VHJhbnNUVg/index.m3u8?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15252670004
+
+# --- STREAM ALTERNATIF 2 (WIDEVINE PROXY) ---
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TES",Trans TV (Widevine)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=210-trans-tv&type=wv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15252670004
+
+# --- STREAM ALTERNATIF 3 (CDN BACKUP DASH) ---
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="TES",Trans TV (CDN Backup)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+https://cdnjktbpid02.transvision.co.id/epyc-tx01/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15252670004
 
 
 
