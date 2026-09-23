@@ -15,23 +15,23 @@ eror 404 link bad
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8?app_type=web&userid=lite&chname=RTV
 
 #EXTINF:-1 group-title="NASIONAL",Trans 7
-https://transdetik.stbbh43.workers.dev/trans7.m3u8
+#https://transdetik.stbbh43.workers.dev/trans7.m3u8
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 #EXTINF:-1 group-title="NASIONAL",Trans TV
-https://transdetik.stbbh43.workers.dev/transtv.m3u8
+#https://transdetik.stbbh43.workers.dev/transtv.m3u8
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTINF:-1 group-title="NASIONAL",CNN Indonesia
-https://transdetik.stbbh43.workers.dev/cnn.m3u8
+#https://transdetik.stbbh43.workers.dev/cnn.m3u8
 https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 
 #EXTINF:-1 group-title="NASIONAL",CNBC Indonesia
-https://transdetik.stbbh43.workers.dev/cnbc.m3u8
+#https://transdetik.stbbh43.workers.dev/cnbc.m3u8
 https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
 
 #EXTINF:-1 group-title="NASIONAL",20 Detik
-https://transdetik.stbbh43.workers.dev/20detik.m3u8
+#https://transdetik.stbbh43.workers.dev/20detik.m3u8
 https://green-night-d2b4.iontv.workers.dev/20detik.m3u8
 
 
@@ -251,19 +251,19 @@ Trans7 (transport)
 
 
 #EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 HD (Transcorp)
-https://transdetik.stbbh43.workers.dev/trans7.m3u8
+#https://transdetik.stbbh43.workers.dev/trans7.m3u8
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://transdetik.stbbh43.workers.dev/trans7.m3u8
+#https://transdetik.stbbh43.workers.dev/trans7.m3u8
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="VISION+BACKUP", TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://transdetik.stbbh43.workers.dev/trans7.m3u8
+#https://transdetik.stbbh43.workers.dev/trans7.m3u8
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 
