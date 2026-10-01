@@ -12,6 +12,55 @@
 
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 1
+#KODPROP:inputstream=inputstream.adaptive
+#KODPROP:inputstream.adaptive.manifest_type=mpd
+#KODPROP:inputstream.adaptive.license_type=clearkey
+#KODPROP:inputstream.adaptive.license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 2
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|license_type=clearkey|license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="RCTI" group-title="V", RCTI 3
+#KODPROP:inputstream.adaptive.license_type=clearkey
+#KODPROP:inputstream.adaptive.license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 4
+#EXTVLCOPT:license_type=clearkey
+#EXTVLCOPT:license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 5
+#EXTVLCOPT:license_type=clearkey
+#EXTVLCOPT:license_key={"keys":[{"kty":"oct","k":"44a2fb1732b4db5fb498ed311f5c98bb","kid":"de7217a0ba6a4cc999f36bce1920c465"}]}
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
