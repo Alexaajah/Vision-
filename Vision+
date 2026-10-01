@@ -1,4 +1,4 @@
-⁹eror 404 link bad
+eror 404 link bad
 
 
 
@@ -6,6 +6,11 @@
 
 
 
+#EXTINF:-1 tvg-id="210" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29d3ed78-5207-4b8f-b08b-b2ff06a061b0.jpg" group-title="V", Trans TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=210-trans-tv&type=wv
+https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VHJhbnNUVg/manifest.mpd?signature=ZjUzZjQ3ZjE4YWJhYWY4NzQwNGViNzM5OTNjZTliZTc=&time=15257375340&device_id=0NCcDzKw2i5wUKKg0c0wGKhS8x88UtClGaqAtDD2ywOqKO4Rt3T5IhvuGw
 
 
 
