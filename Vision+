@@ -6,145 +6,54 @@ eror 404 link bad
 
 
 
-#EXTINF:-1 tvg-id="210" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29d3ed78-5207-4b8f-b08b-b2ff06a061b0.jpg" group-title="V", Trans TV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://baru.pw/cup.php?id=210-trans-tv&type=wv
-https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VHJhbnNUVg/manifest.mpd?signature=ZjUzZjQ3ZjE4YWJhYWY4NzQwNGViNzM5OTNjZTliZTc=&time=15257375340&device_id=0NCcDzKw2i5wUKKg0c0wGKhS8x88UtClGaqAtDD2ywOqKO4Rt3T5IhvuGw
 
-#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="V", Trans TV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15250366075
-
-
-
-
-
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
-#EXTINF:-1 tvg-id="RCTI" group-title="V" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="",RCTI (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="RCTI" group-title="V", RCTI 11
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.visionplus.id/images/repository/720/507720-LOGO-m.png" group-title="V",RCTI 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-name="Channel Stream" group-title="Live TV", Channel Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 NSPlayer/12.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 NSPlayer/12.0"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7062331971b4edaa79e58bfd73cabb5:ce0b72f7c8f205dce99aa207ce6098d2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#EXTINF:-1 group-title="CubMu", Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"Referer":"https://www.cubmu.com/","User-Agent":"Mozilla/5.0 (Linux; Android)"}
+https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VHJhbnNUVg/manifest.mpd?signature=ZjUzM2E4YWE2NWViViNzM5OTNjTliZTliTc=&time=15257443713&device_id=TYdLg7JIBzXrgK1eithwPiE3bqo1g4vzcqzggJkNT5MY3gKYzOHfD4
 
 
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 1
-#KODPROP:inputstream=inputstream.adaptive
-#KODPROP:inputstream.adaptive.manifest_type=mpd
-#KODPROP:inputstream.adaptive.license_type=clearkey
-#KODPROP:inputstream.adaptive.license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 2
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|license_type=clearkey|license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="RCTI" group-title="V", RCTI 3
-#KODPROP:inputstream.adaptive.license_type=clearkey
-#KODPROP:inputstream.adaptive.license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 4
-#EXTVLCOPT:license_type=clearkey
-#EXTVLCOPT:license_key=de7217a0ba6a4cc999f36bce1920c465:44a2fb1732b4db5fb498ed311f5c98bb
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 5
-#EXTVLCOPT:license_type=clearkey
-#EXTVLCOPT:license_key={"keys":[{"kty":"oct","k":"44a2fb1732b4db5fb498ed311f5c98bb","kid":"de7217a0ba6a4cc999f36bce1920c465"}]}
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 6
-#KODPROP:inputstream=inputstream.adaptive
-#KODPROP:inputstream.adaptive.manifest_type=mpd
-#KODPROP:inputstream.adaptive.license_type=clearkey
-#KODPROP:inputstream.adaptive.license_key=3nIXoLpqTMmZ82vOGSDEZQ:RKL7FzO02120mO0xHy2Luw
-#KODPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.9.0&Referer=https://www.visionplus.id/&Origin=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 7
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:license_type=clearkey
-#EXTVLCOPT:license_key={"keys":[{"kty":"oct","k":"RKL7FzO02120mO0xHy2Luw","kid":"3nIXoLpqTMmZ82vOGSDEZQ"}]}
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI 8
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|http-user-agent=okhttp/4.9.0|http-referrer=https://www.visionplus.id/|http-origin=https://www.visionplus.id/|license_type=clearkey|license_key={"keys":[{"kty":"oct","k":"RKL7FzO02120mO0xHy2Luw","kid":"3nIXoLpqTMmZ82vOGSDEZQ"}]}
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI (VLC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:license_type=clearkey
-#EXTVLCOPT:license_key={"keys":[{"kty":"oct","k":"zgty98jyBdznmqIHzmCY0g","kid":"pwYjMVcbTtqnnli_1zyrtQ"}]}
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI (Inline)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|http-referrer=https://www.visionplus.id/|http-origin=https://www.visionplus.id/|license_type=clearkey|license_key={"keys":[{"kty":"oct","k":"zgty98jyBdznmqIHzmCY0g","kid":"pwYjMVcbTtqnnli_1zyrtQ"}]}
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="V", RCTI (Kodi)
-#KODPROP:inputstream=inputstream.adaptive
-#KODPROP:inputstream.adaptive.manifest_type=mpd
-#KODPROP:inputstream.adaptive.license_type=clearkey
-#KODPROP:inputstream.adaptive.license_key=pwYjMVcbTtqnnli_1zyrtQ:zgty98jyBdznmqIHzmCY0g
-#KODPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.visionplus.id/&Origin=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
